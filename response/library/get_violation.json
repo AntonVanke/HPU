@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "id": 139624,
+      "onDate": "2021-06-01",
+      "reason": "迟到违约, 预约: 南校区第二图书馆7层7层自主学习空间（Ⅳ）001号 [2021-06-01 07:30 ~ 08:30]",
+      "unread": false,
+      "reservationId": 3511040,
+      "violationType": "MISS",
+      "dateCreated": "2021-06-01 07:45:10"
+    }
+  ],
+  "message": "",
+  "status": true
+}

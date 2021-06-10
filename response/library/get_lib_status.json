@@ -1,0 +1,172 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "roomId": 29,
+      "room": "1层自主学习空间（Ⅰ）",
+      "floor": 1,
+      "maxHour": -1,
+      "reserved": 0,
+      "inUse": 153,
+      "away": 6,
+      "totalSeats": 164,
+      "free": 5
+    },
+    {
+      "roomId": 30,
+      "room": "3层自主学习空间（Ⅱ）",
+      "floor": 3,
+      "maxHour": -1,
+      "reserved": 0,
+      "inUse": 232,
+      "away": 1,
+      "totalSeats": 266,
+      "free": 33
+    },
+    {
+      "roomId": 32,
+      "room": "3层自主学习空间（Ⅲ）",
+      "floor": 3,
+      "maxHour": -1,
+      "reserved": 0,
+      "inUse": 61,
+      "away": 0,
+      "totalSeats": 80,
+      "free": 19
+    },
+    {
+      "roomId": 15,
+      "room": "4层工程技术类借阅区",
+      "floor": 4,
+      "maxHour": -1,
+      "reserved": 0,
+      "inUse": 63,
+      "away": 0,
+      "totalSeats": 68,
+      "free": 5
+    },
+    {
+      "roomId": 14,
+      "room": "4层计算机类借阅区1",
+      "floor": 4,
+      "maxHour": -1,
+      "reserved": 1,
+      "inUse": 116,
+      "away": 4,
+      "totalSeats": 142,
+      "free": 21
+    },
+    {
+      "roomId": 13,
+      "room": "4层计算机类借阅区2",
+      "floor": 4,
+      "maxHour": -1,
+      "reserved": 0,
+      "inUse": 104,
+      "away": 2,
+      "totalSeats": 124,
+      "free": 18
+    },
+    {
+      "roomId": 17,
+      "room": "5层工程技术类借阅区",
+      "floor": 5,
+      "maxHour": -1,
+      "reserved": 0,
+      "inUse": 106,
+      "away": 0,
+      "totalSeats": 124,
+      "free": 18
+    },
+    {
+      "roomId": 19,
+      "room": "5层自然科学借阅区",
+      "floor": 5,
+      "maxHour": -1,
+      "reserved": 0,
+      "inUse": 64,
+      "away": 1,
+      "totalSeats": 68,
+      "free": 3
+    },
+    {
+      "roomId": 23,
+      "room": "6层社会科学借阅区（Ⅰ）",
+      "floor": 6,
+      "maxHour": -1,
+      "reserved": 0,
+      "inUse": 59,
+      "away": 0,
+      "totalSeats": 68,
+      "free": 9
+    },
+    {
+      "roomId": 22,
+      "room": "6层社会科学类借阅区(Ⅱ)1",
+      "floor": 6,
+      "maxHour": -1,
+      "reserved": 0,
+      "inUse": 122,
+      "away": 2,
+      "totalSeats": 142,
+      "free": 18
+    },
+    {
+      "roomId": 21,
+      "room": "6层社会科学类借阅区(Ⅱ)2",
+      "floor": 6,
+      "maxHour": -1,
+      "reserved": 0,
+      "inUse": 106,
+      "away": 0,
+      "totalSeats": 120,
+      "free": 10
+    },
+    {
+      "roomId": 26,
+      "room": "7层社会科学类借阅区1",
+      "floor": 7,
+      "maxHour": -1,
+      "reserved": 1,
+      "inUse": 140,
+      "away": 2,
+      "totalSeats": 174,
+      "free": 17
+    },
+    {
+      "roomId": 25,
+      "room": "7层社会科学类借阅区2",
+      "floor": 7,
+      "maxHour": -1,
+      "reserved": 1,
+      "inUse": 67,
+      "away": 1,
+      "totalSeats": 98,
+      "free": 11
+    },
+    {
+      "roomId": 28,
+      "room": "7层自主学习空间（V）",
+      "floor": 7,
+      "maxHour": -1,
+      "reserved": 0,
+      "inUse": 58,
+      "away": 2,
+      "totalSeats": 64,
+      "free": 4
+    },
+    {
+      "roomId": 31,
+      "room": "7层自主学习空间（Ⅳ）",
+      "floor": 7,
+      "maxHour": -1,
+      "reserved": 0,
+      "inUse": 310,
+      "away": 1,
+      "totalSeats": 336,
+      "free": 25
+    }
+  ],
+  "message": "",
+  "code": "0"
+}

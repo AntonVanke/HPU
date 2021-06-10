@@ -1,0 +1,5253 @@
+{
+  "status": "success",
+  "data": {
+    "id": 30,
+    "name": "3层自主学习空间（Ⅱ）",
+    "cols": 47,
+    "rows": 23,
+    "layout": {
+      "0": {
+        "type": "empty"
+      },
+      "1": {
+        "name": "",
+        "type": "door"
+      },
+      "2": {
+        "type": "empty"
+      },
+      "3": {
+        "type": "empty"
+      },
+      "4": {
+        "type": "empty"
+      },
+      "5": {
+        "type": "empty"
+      },
+      "6": {
+        "type": "empty"
+      },
+      "7": {
+        "type": "empty"
+      },
+      "8": {
+        "type": "empty"
+      },
+      "9": {
+        "type": "empty"
+      },
+      "10": {
+        "type": "empty"
+      },
+      "11": {
+        "type": "empty"
+      },
+      "12": {
+        "type": "empty"
+      },
+      "13": {
+        "type": "empty"
+      },
+      "14": {
+        "type": "empty"
+      },
+      "15": {
+        "type": "empty"
+      },
+      "16": {
+        "type": "empty"
+      },
+      "17": {
+        "type": "empty"
+      },
+      "18": {
+        "type": "empty"
+      },
+      "19": {
+        "type": "empty"
+      },
+      "20": {
+        "type": "empty"
+      },
+      "21": {
+        "type": "empty"
+      },
+      "22": {
+        "type": "empty"
+      },
+      "23": {
+        "type": "empty"
+      },
+      "24": {
+        "type": "empty"
+      },
+      "25": {
+        "type": "empty"
+      },
+      "26": {
+        "type": "empty"
+      },
+      "27": {
+        "type": "empty"
+      },
+      "28": {
+        "type": "empty"
+      },
+      "29": {
+        "type": "empty"
+      },
+      "30": {
+        "type": "empty"
+      },
+      "31": {
+        "type": "empty"
+      },
+      "32": {
+        "type": "empty"
+      },
+      "33": {
+        "name": "",
+        "type": "door"
+      },
+      "34": {
+        "type": "empty"
+      },
+      "35": {
+        "type": "empty"
+      },
+      "36": {
+        "type": "empty"
+      },
+      "37": {
+        "type": "empty"
+      },
+      "38": {
+        "type": "empty"
+      },
+      "39": {
+        "type": "empty"
+      },
+      "40": {
+        "type": "empty"
+      },
+      "41": {
+        "type": "empty"
+      },
+      "42": {
+        "type": "empty"
+      },
+      "43": {
+        "type": "empty"
+      },
+      "44": {
+        "type": "empty"
+      },
+      "45": {
+        "type": "empty"
+      },
+      "46": {
+        "type": "empty"
+      },
+      "1000": {
+        "type": "empty"
+      },
+      "1001": {
+        "type": "empty"
+      },
+      "1002": {
+        "type": "empty"
+      },
+      "1003": {
+        "type": "empty"
+      },
+      "1004": {
+        "type": "empty"
+      },
+      "1005": {
+        "type": "empty"
+      },
+      "1006": {
+        "type": "empty"
+      },
+      "1007": {
+        "type": "empty"
+      },
+      "1008": {
+        "type": "empty"
+      },
+      "1009": {
+        "type": "empty"
+      },
+      "1010": {
+        "type": "empty"
+      },
+      "1011": {
+        "type": "empty"
+      },
+      "1012": {
+        "type": "empty"
+      },
+      "1013": {
+        "type": "empty"
+      },
+      "1014": {
+        "type": "empty"
+      },
+      "1015": {
+        "type": "empty"
+      },
+      "1016": {
+        "type": "empty"
+      },
+      "1017": {
+        "type": "empty"
+      },
+      "1018": {
+        "type": "empty"
+      },
+      "1019": {
+        "type": "empty"
+      },
+      "1020": {
+        "type": "empty"
+      },
+      "1021": {
+        "type": "empty"
+      },
+      "1022": {
+        "type": "empty"
+      },
+      "1023": {
+        "type": "empty"
+      },
+      "1024": {
+        "type": "empty"
+      },
+      "1025": {
+        "type": "empty"
+      },
+      "1026": {
+        "type": "empty"
+      },
+      "1027": {
+        "type": "empty"
+      },
+      "1028": {
+        "type": "empty"
+      },
+      "1029": {
+        "type": "empty"
+      },
+      "1030": {
+        "type": "empty"
+      },
+      "1031": {
+        "type": "empty"
+      },
+      "1032": {
+        "type": "empty"
+      },
+      "1033": {
+        "type": "empty"
+      },
+      "1034": {
+        "type": "empty"
+      },
+      "1035": {
+        "type": "empty"
+      },
+      "1036": {
+        "type": "empty"
+      },
+      "1037": {
+        "type": "empty"
+      },
+      "1038": {
+        "type": "empty"
+      },
+      "1039": {
+        "type": "empty"
+      },
+      "1040": {
+        "type": "empty"
+      },
+      "1041": {
+        "type": "empty"
+      },
+      "1042": {
+        "type": "empty"
+      },
+      "1043": {
+        "type": "empty"
+      },
+      "1044": {
+        "type": "empty"
+      },
+      "1045": {
+        "type": "empty"
+      },
+      "1046": {
+        "type": "empty"
+      },
+      "2000": {
+        "type": "empty"
+      },
+      "2001": {
+        "type": "empty"
+      },
+      "2002": {
+        "id": 14819,
+        "name": "265",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2003": {
+        "name": null,
+        "type": "desk"
+      },
+      "2004": {
+        "id": 14821,
+        "name": "264",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2005": {
+        "type": "empty"
+      },
+      "2006": {
+        "id": 14823,
+        "name": "261",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2007": {
+        "name": null,
+        "type": "desk"
+      },
+      "2008": {
+        "id": 14825,
+        "name": "260",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2009": {
+        "type": "empty"
+      },
+      "2010": {
+        "id": 14827,
+        "name": "257",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2011": {
+        "name": null,
+        "type": "desk"
+      },
+      "2012": {
+        "id": 14829,
+        "name": "256",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2013": {
+        "type": "empty"
+      },
+      "2014": {
+        "id": 14831,
+        "name": "253",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2015": {
+        "name": null,
+        "type": "desk"
+      },
+      "2016": {
+        "id": 14833,
+        "name": "252",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2017": {
+        "type": "empty"
+      },
+      "2018": {
+        "id": 14835,
+        "name": "249",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2019": {
+        "name": null,
+        "type": "desk"
+      },
+      "2020": {
+        "id": 14837,
+        "name": "248",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2021": {
+        "type": "empty"
+      },
+      "2022": {
+        "id": 14839,
+        "name": "245",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2023": {
+        "name": null,
+        "type": "desk"
+      },
+      "2024": {
+        "id": 14841,
+        "name": "244",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2025": {
+        "type": "empty"
+      },
+      "2026": {
+        "type": "empty"
+      },
+      "2027": {
+        "type": "empty"
+      },
+      "2028": {
+        "type": "empty"
+      },
+      "2029": {
+        "type": "empty"
+      },
+      "2030": {
+        "id": 14847,
+        "name": "241",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2031": {
+        "name": null,
+        "type": "desk"
+      },
+      "2032": {
+        "id": 14849,
+        "name": "240",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2033": {
+        "type": "empty"
+      },
+      "2034": {
+        "id": 14851,
+        "name": "237",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2035": {
+        "name": null,
+        "type": "desk"
+      },
+      "2036": {
+        "id": 14853,
+        "name": "236",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2037": {
+        "type": "empty"
+      },
+      "2038": {
+        "id": 14855,
+        "name": "233",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2039": {
+        "name": null,
+        "type": "desk"
+      },
+      "2040": {
+        "id": 14857,
+        "name": "232",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2041": {
+        "type": "empty"
+      },
+      "2042": {
+        "id": 14859,
+        "name": "229",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2043": {
+        "name": null,
+        "type": "desk"
+      },
+      "2044": {
+        "id": 14861,
+        "name": "228",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2045": {
+        "type": "empty"
+      },
+      "2046": {
+        "type": "empty"
+      },
+      "3000": {
+        "type": "empty"
+      },
+      "3001": {
+        "type": "empty"
+      },
+      "3002": {
+        "id": 14864,
+        "name": "266",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3003": {
+        "name": null,
+        "type": "desk"
+      },
+      "3004": {
+        "id": 14866,
+        "name": "263",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3005": {
+        "type": "empty"
+      },
+      "3006": {
+        "id": 14868,
+        "name": "262",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3007": {
+        "name": null,
+        "type": "desk"
+      },
+      "3008": {
+        "id": 14870,
+        "name": "259",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3009": {
+        "type": "empty"
+      },
+      "3010": {
+        "id": 14872,
+        "name": "258",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3011": {
+        "name": null,
+        "type": "desk"
+      },
+      "3012": {
+        "id": 14874,
+        "name": "255",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3013": {
+        "type": "empty"
+      },
+      "3014": {
+        "id": 14876,
+        "name": "254",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3015": {
+        "name": null,
+        "type": "desk"
+      },
+      "3016": {
+        "id": 14878,
+        "name": "251",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3017": {
+        "type": "empty"
+      },
+      "3018": {
+        "id": 14880,
+        "name": "250",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3019": {
+        "name": null,
+        "type": "desk"
+      },
+      "3020": {
+        "id": 14882,
+        "name": "247",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3021": {
+        "type": "empty"
+      },
+      "3022": {
+        "id": 14884,
+        "name": "246",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3023": {
+        "name": null,
+        "type": "desk"
+      },
+      "3024": {
+        "id": 14886,
+        "name": "243",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3025": {
+        "type": "empty"
+      },
+      "3026": {
+        "type": "empty"
+      },
+      "3027": {
+        "type": "empty"
+      },
+      "3028": {
+        "type": "empty"
+      },
+      "3029": {
+        "type": "empty"
+      },
+      "3030": {
+        "id": 14892,
+        "name": "242",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3031": {
+        "name": null,
+        "type": "desk"
+      },
+      "3032": {
+        "id": 14894,
+        "name": "239",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3033": {
+        "type": "empty"
+      },
+      "3034": {
+        "id": 14896,
+        "name": "238",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3035": {
+        "name": null,
+        "type": "desk"
+      },
+      "3036": {
+        "id": 14898,
+        "name": "235",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3037": {
+        "type": "empty"
+      },
+      "3038": {
+        "id": 14900,
+        "name": "234",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3039": {
+        "name": null,
+        "type": "desk"
+      },
+      "3040": {
+        "id": 14902,
+        "name": "231",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3041": {
+        "type": "empty"
+      },
+      "3042": {
+        "id": 14904,
+        "name": "230",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3043": {
+        "name": null,
+        "type": "desk"
+      },
+      "3044": {
+        "id": 14906,
+        "name": "227",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3045": {
+        "type": "empty"
+      },
+      "3046": {
+        "type": "empty"
+      },
+      "4000": {
+        "type": "empty"
+      },
+      "4001": {
+        "type": "empty"
+      },
+      "4002": {
+        "type": "empty"
+      },
+      "4003": {
+        "type": "empty"
+      },
+      "4004": {
+        "type": "empty"
+      },
+      "4005": {
+        "type": "empty"
+      },
+      "4006": {
+        "type": "empty"
+      },
+      "4007": {
+        "type": "empty"
+      },
+      "4008": {
+        "type": "empty"
+      },
+      "4009": {
+        "type": "empty"
+      },
+      "4010": {
+        "type": "empty"
+      },
+      "4011": {
+        "type": "empty"
+      },
+      "4012": {
+        "type": "empty"
+      },
+      "4013": {
+        "type": "empty"
+      },
+      "4014": {
+        "type": "empty"
+      },
+      "4015": {
+        "type": "empty"
+      },
+      "4016": {
+        "type": "empty"
+      },
+      "4017": {
+        "type": "empty"
+      },
+      "4018": {
+        "type": "empty"
+      },
+      "4019": {
+        "type": "empty"
+      },
+      "4020": {
+        "type": "empty"
+      },
+      "4021": {
+        "type": "empty"
+      },
+      "4022": {
+        "type": "empty"
+      },
+      "4023": {
+        "type": "empty"
+      },
+      "4024": {
+        "type": "empty"
+      },
+      "4025": {
+        "type": "empty"
+      },
+      "4026": {
+        "type": "empty"
+      },
+      "4027": {
+        "type": "empty"
+      },
+      "4028": {
+        "type": "empty"
+      },
+      "4029": {
+        "type": "empty"
+      },
+      "4030": {
+        "type": "empty"
+      },
+      "4031": {
+        "type": "empty"
+      },
+      "4032": {
+        "type": "empty"
+      },
+      "4033": {
+        "type": "empty"
+      },
+      "4034": {
+        "type": "empty"
+      },
+      "4035": {
+        "type": "empty"
+      },
+      "4036": {
+        "type": "empty"
+      },
+      "4037": {
+        "type": "empty"
+      },
+      "4038": {
+        "type": "empty"
+      },
+      "4039": {
+        "type": "empty"
+      },
+      "4040": {
+        "type": "empty"
+      },
+      "4041": {
+        "type": "empty"
+      },
+      "4042": {
+        "type": "empty"
+      },
+      "4043": {
+        "type": "empty"
+      },
+      "4044": {
+        "type": "empty"
+      },
+      "4045": {
+        "type": "empty"
+      },
+      "4046": {
+        "type": "empty"
+      },
+      "5000": {
+        "type": "empty"
+      },
+      "5001": {
+        "type": "empty"
+      },
+      "5002": {
+        "type": "empty"
+      },
+      "5003": {
+        "type": "empty"
+      },
+      "5004": {
+        "type": "empty"
+      },
+      "5005": {
+        "type": "empty"
+      },
+      "5006": {
+        "type": "empty"
+      },
+      "5007": {
+        "type": "empty"
+      },
+      "5008": {
+        "type": "empty"
+      },
+      "5009": {
+        "type": "empty"
+      },
+      "5010": {
+        "type": "empty"
+      },
+      "5011": {
+        "type": "empty"
+      },
+      "5012": {
+        "type": "empty"
+      },
+      "5013": {
+        "type": "empty"
+      },
+      "5014": {
+        "type": "empty"
+      },
+      "5015": {
+        "type": "empty"
+      },
+      "5016": {
+        "type": "empty"
+      },
+      "5017": {
+        "type": "empty"
+      },
+      "5018": {
+        "type": "empty"
+      },
+      "5019": {
+        "type": "empty"
+      },
+      "5020": {
+        "type": "empty"
+      },
+      "5021": {
+        "type": "empty"
+      },
+      "5022": {
+        "type": "empty"
+      },
+      "5023": {
+        "type": "empty"
+      },
+      "5024": {
+        "type": "empty"
+      },
+      "5025": {
+        "type": "empty"
+      },
+      "5026": {
+        "type": "empty"
+      },
+      "5027": {
+        "type": "empty"
+      },
+      "5028": {
+        "type": "empty"
+      },
+      "5029": {
+        "type": "empty"
+      },
+      "5030": {
+        "type": "empty"
+      },
+      "5031": {
+        "type": "empty"
+      },
+      "5032": {
+        "type": "empty"
+      },
+      "5033": {
+        "type": "empty"
+      },
+      "5034": {
+        "type": "empty"
+      },
+      "5035": {
+        "type": "empty"
+      },
+      "5036": {
+        "type": "empty"
+      },
+      "5037": {
+        "type": "empty"
+      },
+      "5038": {
+        "type": "empty"
+      },
+      "5039": {
+        "type": "empty"
+      },
+      "5040": {
+        "type": "empty"
+      },
+      "5041": {
+        "type": "empty"
+      },
+      "5042": {
+        "type": "empty"
+      },
+      "5043": {
+        "type": "empty"
+      },
+      "5044": {
+        "type": "empty"
+      },
+      "5045": {
+        "type": "empty"
+      },
+      "5046": {
+        "type": "empty"
+      },
+      "6000": {
+        "type": "empty"
+      },
+      "6001": {
+        "type": "empty"
+      },
+      "6002": {
+        "id": 15892,
+        "name": "225",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6003": {
+        "name": null,
+        "type": "desk"
+      },
+      "6004": {
+        "id": 15894,
+        "name": "224",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6005": {
+        "type": "empty"
+      },
+      "6006": {
+        "id": 15896,
+        "name": "217",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6007": {
+        "name": null,
+        "type": "desk"
+      },
+      "6008": {
+        "id": 15898,
+        "name": "216",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6009": {
+        "type": "empty"
+      },
+      "6010": {
+        "id": 15900,
+        "name": "209",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6011": {
+        "name": null,
+        "type": "desk"
+      },
+      "6012": {
+        "id": 15902,
+        "name": "208",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6013": {
+        "type": "empty"
+      },
+      "6014": {
+        "id": 15904,
+        "name": "201",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6015": {
+        "name": null,
+        "type": "desk"
+      },
+      "6016": {
+        "id": 15906,
+        "name": "200",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6017": {
+        "type": "empty"
+      },
+      "6018": {
+        "id": 15908,
+        "name": "193",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6019": {
+        "name": null,
+        "type": "desk"
+      },
+      "6020": {
+        "id": 15910,
+        "name": "192",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6021": {
+        "type": "empty"
+      },
+      "6022": {
+        "id": 15912,
+        "name": "185",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6023": {
+        "name": null,
+        "type": "desk"
+      },
+      "6024": {
+        "id": 15914,
+        "name": "184",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6025": {
+        "type": "empty"
+      },
+      "6026": {
+        "type": "empty"
+      },
+      "6027": {
+        "type": "empty"
+      },
+      "6028": {
+        "type": "empty"
+      },
+      "6029": {
+        "type": "empty"
+      },
+      "6030": {
+        "id": 15920,
+        "name": "177",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6031": {
+        "name": null,
+        "type": "desk"
+      },
+      "6032": {
+        "id": 15922,
+        "name": "176",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6033": {
+        "type": "empty"
+      },
+      "6034": {
+        "id": 15924,
+        "name": "169",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6035": {
+        "name": null,
+        "type": "desk"
+      },
+      "6036": {
+        "id": 15926,
+        "name": "168",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6037": {
+        "type": "empty"
+      },
+      "6038": {
+        "id": 15928,
+        "name": "161",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6039": {
+        "name": null,
+        "type": "desk"
+      },
+      "6040": {
+        "id": 15930,
+        "name": "160",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6041": {
+        "type": "empty"
+      },
+      "6042": {
+        "id": 15932,
+        "name": "153",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6043": {
+        "name": null,
+        "type": "desk"
+      },
+      "6044": {
+        "id": 15934,
+        "name": "152",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "6045": {
+        "type": "empty"
+      },
+      "6046": {
+        "type": "empty"
+      },
+      "7000": {
+        "type": "empty"
+      },
+      "7001": {
+        "type": "empty"
+      },
+      "7002": {
+        "id": 15044,
+        "name": "226",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7003": {
+        "name": null,
+        "type": "desk"
+      },
+      "7004": {
+        "id": 15046,
+        "name": "223",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7005": {
+        "type": "empty"
+      },
+      "7006": {
+        "id": 15048,
+        "name": "218",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7007": {
+        "name": null,
+        "type": "desk"
+      },
+      "7008": {
+        "id": 15050,
+        "name": "215",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7009": {
+        "type": "empty"
+      },
+      "7010": {
+        "id": 15052,
+        "name": "210",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7011": {
+        "name": null,
+        "type": "desk"
+      },
+      "7012": {
+        "id": 15054,
+        "name": "207",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7013": {
+        "type": "empty"
+      },
+      "7014": {
+        "id": 15056,
+        "name": "202",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7015": {
+        "name": null,
+        "type": "desk"
+      },
+      "7016": {
+        "id": 15058,
+        "name": "199",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7017": {
+        "type": "empty"
+      },
+      "7018": {
+        "id": 15060,
+        "name": "194",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7019": {
+        "name": null,
+        "type": "desk"
+      },
+      "7020": {
+        "id": 15062,
+        "name": "191",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7021": {
+        "type": "empty"
+      },
+      "7022": {
+        "id": 15064,
+        "name": "186",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7023": {
+        "name": null,
+        "type": "desk"
+      },
+      "7024": {
+        "id": 15066,
+        "name": "183",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7025": {
+        "type": "empty"
+      },
+      "7026": {
+        "type": "empty"
+      },
+      "7027": {
+        "type": "empty"
+      },
+      "7028": {
+        "type": "empty"
+      },
+      "7029": {
+        "type": "empty"
+      },
+      "7030": {
+        "id": 15072,
+        "name": "178",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7031": {
+        "name": null,
+        "type": "desk"
+      },
+      "7032": {
+        "id": 15074,
+        "name": "175",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7033": {
+        "type": "empty"
+      },
+      "7034": {
+        "id": 15076,
+        "name": "170",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7035": {
+        "name": null,
+        "type": "desk"
+      },
+      "7036": {
+        "id": 15078,
+        "name": "167",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7037": {
+        "type": "empty"
+      },
+      "7038": {
+        "id": 15080,
+        "name": "162",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7039": {
+        "name": null,
+        "type": "desk"
+      },
+      "7040": {
+        "id": 15082,
+        "name": "159",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7041": {
+        "type": "empty"
+      },
+      "7042": {
+        "id": 15084,
+        "name": "154",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7043": {
+        "name": null,
+        "type": "desk"
+      },
+      "7044": {
+        "id": 15086,
+        "name": "151",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "7045": {
+        "type": "empty"
+      },
+      "7046": {
+        "type": "empty"
+      },
+      "8000": {
+        "type": "empty"
+      },
+      "8001": {
+        "type": "empty"
+      },
+      "8002": {
+        "id": 15089,
+        "name": "221",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8003": {
+        "name": null,
+        "type": "desk"
+      },
+      "8004": {
+        "id": 15091,
+        "name": "220",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8005": {
+        "type": "empty"
+      },
+      "8006": {
+        "id": 15093,
+        "name": "213",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8007": {
+        "name": null,
+        "type": "desk"
+      },
+      "8008": {
+        "id": 15095,
+        "name": "212",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8009": {
+        "type": "empty"
+      },
+      "8010": {
+        "id": 15097,
+        "name": "205",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8011": {
+        "name": null,
+        "type": "desk"
+      },
+      "8012": {
+        "id": 15099,
+        "name": "204",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8013": {
+        "type": "empty"
+      },
+      "8014": {
+        "id": 15101,
+        "name": "197",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8015": {
+        "name": null,
+        "type": "desk"
+      },
+      "8016": {
+        "id": 15103,
+        "name": "196",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8017": {
+        "type": "empty"
+      },
+      "8018": {
+        "id": 15105,
+        "name": "189",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8019": {
+        "name": null,
+        "type": "desk"
+      },
+      "8020": {
+        "id": 15107,
+        "name": "188",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8021": {
+        "type": "empty"
+      },
+      "8022": {
+        "id": 15109,
+        "name": "181",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8023": {
+        "name": null,
+        "type": "desk"
+      },
+      "8024": {
+        "id": 15111,
+        "name": "180",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8025": {
+        "type": "empty"
+      },
+      "8026": {
+        "type": "empty"
+      },
+      "8027": {
+        "type": "empty"
+      },
+      "8028": {
+        "type": "empty"
+      },
+      "8029": {
+        "type": "empty"
+      },
+      "8030": {
+        "id": 15117,
+        "name": "173",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8031": {
+        "name": null,
+        "type": "desk"
+      },
+      "8032": {
+        "id": 15119,
+        "name": "172",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8033": {
+        "type": "empty"
+      },
+      "8034": {
+        "id": 15121,
+        "name": "165",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8035": {
+        "name": null,
+        "type": "desk"
+      },
+      "8036": {
+        "id": 15123,
+        "name": "164",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8037": {
+        "type": "empty"
+      },
+      "8038": {
+        "id": 15125,
+        "name": "157",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8039": {
+        "name": null,
+        "type": "desk"
+      },
+      "8040": {
+        "id": 15127,
+        "name": "156",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8041": {
+        "type": "empty"
+      },
+      "8042": {
+        "id": 15129,
+        "name": "149",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8043": {
+        "name": null,
+        "type": "desk"
+      },
+      "8044": {
+        "id": 15131,
+        "name": "148",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "8045": {
+        "type": "empty"
+      },
+      "8046": {
+        "type": "empty"
+      },
+      "9000": {
+        "type": "empty"
+      },
+      "9001": {
+        "type": "empty"
+      },
+      "9002": {
+        "id": 15805,
+        "name": "222",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9003": {
+        "name": null,
+        "type": "desk"
+      },
+      "9004": {
+        "id": 15807,
+        "name": "219",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9005": {
+        "type": "empty"
+      },
+      "9006": {
+        "id": 15809,
+        "name": "214",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9007": {
+        "name": null,
+        "type": "desk"
+      },
+      "9008": {
+        "id": 15811,
+        "name": "211",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9009": {
+        "type": "empty"
+      },
+      "9010": {
+        "id": 15813,
+        "name": "206",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9011": {
+        "name": null,
+        "type": "desk"
+      },
+      "9012": {
+        "id": 15815,
+        "name": "203",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9013": {
+        "type": "empty"
+      },
+      "9014": {
+        "id": 15817,
+        "name": "198",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9015": {
+        "name": null,
+        "type": "desk"
+      },
+      "9016": {
+        "id": 15819,
+        "name": "195",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9017": {
+        "type": "empty"
+      },
+      "9018": {
+        "id": 15821,
+        "name": "190",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9019": {
+        "name": null,
+        "type": "desk"
+      },
+      "9020": {
+        "id": 15823,
+        "name": "187",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9021": {
+        "type": "empty"
+      },
+      "9022": {
+        "id": 15825,
+        "name": "182",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9023": {
+        "name": null,
+        "type": "desk"
+      },
+      "9024": {
+        "id": 15827,
+        "name": "179",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9025": {
+        "type": "empty"
+      },
+      "9026": {
+        "type": "empty"
+      },
+      "9027": {
+        "type": "empty"
+      },
+      "9028": {
+        "type": "empty"
+      },
+      "9029": {
+        "type": "empty"
+      },
+      "9030": {
+        "id": 15833,
+        "name": "174",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9031": {
+        "name": null,
+        "type": "desk"
+      },
+      "9032": {
+        "id": 15835,
+        "name": "171",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9033": {
+        "type": "empty"
+      },
+      "9034": {
+        "id": 15837,
+        "name": "166",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9035": {
+        "name": null,
+        "type": "desk"
+      },
+      "9036": {
+        "id": 15839,
+        "name": "163",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9037": {
+        "type": "empty"
+      },
+      "9038": {
+        "id": 15841,
+        "name": "158",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9039": {
+        "name": null,
+        "type": "desk"
+      },
+      "9040": {
+        "id": 15843,
+        "name": "155",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9041": {
+        "type": "empty"
+      },
+      "9042": {
+        "id": 15845,
+        "name": "150",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9043": {
+        "name": null,
+        "type": "desk"
+      },
+      "9044": {
+        "id": 15847,
+        "name": "147",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "9045": {
+        "type": "empty"
+      },
+      "9046": {
+        "type": "empty"
+      },
+      "10000": {
+        "type": "empty"
+      },
+      "10001": {
+        "type": "empty"
+      },
+      "10002": {
+        "type": "empty"
+      },
+      "10003": {
+        "type": "empty"
+      },
+      "10004": {
+        "type": "empty"
+      },
+      "10005": {
+        "type": "empty"
+      },
+      "10006": {
+        "type": "empty"
+      },
+      "10007": {
+        "type": "empty"
+      },
+      "10008": {
+        "type": "empty"
+      },
+      "10009": {
+        "type": "empty"
+      },
+      "10010": {
+        "type": "empty"
+      },
+      "10011": {
+        "type": "empty"
+      },
+      "10012": {
+        "type": "empty"
+      },
+      "10013": {
+        "type": "empty"
+      },
+      "10014": {
+        "type": "empty"
+      },
+      "10015": {
+        "type": "empty"
+      },
+      "10016": {
+        "type": "empty"
+      },
+      "10017": {
+        "type": "empty"
+      },
+      "10018": {
+        "type": "empty"
+      },
+      "10019": {
+        "type": "empty"
+      },
+      "10020": {
+        "type": "empty"
+      },
+      "10021": {
+        "type": "empty"
+      },
+      "10022": {
+        "type": "empty"
+      },
+      "10023": {
+        "type": "empty"
+      },
+      "10024": {
+        "type": "empty"
+      },
+      "10025": {
+        "type": "empty"
+      },
+      "10026": {
+        "type": "empty"
+      },
+      "10027": {
+        "type": "empty"
+      },
+      "10028": {
+        "type": "empty"
+      },
+      "10029": {
+        "type": "empty"
+      },
+      "10030": {
+        "type": "empty"
+      },
+      "10031": {
+        "type": "empty"
+      },
+      "10032": {
+        "type": "empty"
+      },
+      "10033": {
+        "type": "empty"
+      },
+      "10034": {
+        "type": "empty"
+      },
+      "10035": {
+        "type": "empty"
+      },
+      "10036": {
+        "type": "empty"
+      },
+      "10037": {
+        "type": "empty"
+      },
+      "10038": {
+        "type": "empty"
+      },
+      "10039": {
+        "type": "empty"
+      },
+      "10040": {
+        "type": "empty"
+      },
+      "10041": {
+        "type": "empty"
+      },
+      "10042": {
+        "type": "empty"
+      },
+      "10043": {
+        "type": "empty"
+      },
+      "10044": {
+        "type": "empty"
+      },
+      "10045": {
+        "type": "empty"
+      },
+      "10046": {
+        "type": "empty"
+      },
+      "11000": {
+        "type": "empty"
+      },
+      "11001": {
+        "type": "empty"
+      },
+      "11002": {
+        "type": "empty"
+      },
+      "11003": {
+        "type": "empty"
+      },
+      "11004": {
+        "type": "empty"
+      },
+      "11005": {
+        "type": "empty"
+      },
+      "11006": {
+        "type": "empty"
+      },
+      "11007": {
+        "type": "empty"
+      },
+      "11008": {
+        "type": "empty"
+      },
+      "11009": {
+        "type": "empty"
+      },
+      "11010": {
+        "type": "empty"
+      },
+      "11011": {
+        "type": "empty"
+      },
+      "11012": {
+        "type": "empty"
+      },
+      "11013": {
+        "type": "empty"
+      },
+      "11014": {
+        "type": "empty"
+      },
+      "11015": {
+        "type": "empty"
+      },
+      "11016": {
+        "type": "empty"
+      },
+      "11017": {
+        "type": "empty"
+      },
+      "11018": {
+        "type": "empty"
+      },
+      "11019": {
+        "type": "empty"
+      },
+      "11020": {
+        "type": "empty"
+      },
+      "11021": {
+        "type": "empty"
+      },
+      "11022": {
+        "type": "empty"
+      },
+      "11023": {
+        "type": "empty"
+      },
+      "11024": {
+        "type": "empty"
+      },
+      "11025": {
+        "type": "empty"
+      },
+      "11026": {
+        "type": "empty"
+      },
+      "11027": {
+        "type": "empty"
+      },
+      "11028": {
+        "type": "empty"
+      },
+      "11029": {
+        "type": "empty"
+      },
+      "11030": {
+        "type": "empty"
+      },
+      "11031": {
+        "type": "empty"
+      },
+      "11032": {
+        "type": "empty"
+      },
+      "11033": {
+        "type": "empty"
+      },
+      "11034": {
+        "type": "empty"
+      },
+      "11035": {
+        "type": "empty"
+      },
+      "11036": {
+        "type": "empty"
+      },
+      "11037": {
+        "type": "empty"
+      },
+      "11038": {
+        "type": "empty"
+      },
+      "11039": {
+        "type": "empty"
+      },
+      "11040": {
+        "type": "empty"
+      },
+      "11041": {
+        "type": "empty"
+      },
+      "11042": {
+        "type": "empty"
+      },
+      "11043": {
+        "type": "empty"
+      },
+      "11044": {
+        "type": "empty"
+      },
+      "11045": {
+        "type": "empty"
+      },
+      "11046": {
+        "type": "empty"
+      },
+      "12000": {
+        "type": "empty"
+      },
+      "12001": {
+        "type": "empty"
+      },
+      "12002": {
+        "id": 15269,
+        "name": "145",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12003": {
+        "name": null,
+        "type": "desk"
+      },
+      "12004": {
+        "id": 15271,
+        "name": "144",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12005": {
+        "type": "empty"
+      },
+      "12006": {
+        "id": 15273,
+        "name": "137",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12007": {
+        "name": null,
+        "type": "desk"
+      },
+      "12008": {
+        "id": 15275,
+        "name": "136",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12009": {
+        "type": "empty"
+      },
+      "12010": {
+        "id": 15277,
+        "name": "129",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12011": {
+        "name": null,
+        "type": "desk"
+      },
+      "12012": {
+        "id": 15279,
+        "name": "128",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12013": {
+        "type": "empty"
+      },
+      "12014": {
+        "id": 15281,
+        "name": "121",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12015": {
+        "name": null,
+        "type": "desk"
+      },
+      "12016": {
+        "id": 15283,
+        "name": "120",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12017": {
+        "type": "empty"
+      },
+      "12018": {
+        "id": 15285,
+        "name": "113",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12019": {
+        "name": null,
+        "type": "desk"
+      },
+      "12020": {
+        "id": 15287,
+        "name": "112",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12021": {
+        "type": "empty"
+      },
+      "12022": {
+        "id": 15289,
+        "name": "105",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12023": {
+        "name": null,
+        "type": "desk"
+      },
+      "12024": {
+        "id": 15291,
+        "name": "104",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12025": {
+        "type": "empty"
+      },
+      "12026": {
+        "type": "empty"
+      },
+      "12027": {
+        "type": "empty"
+      },
+      "12028": {
+        "type": "empty"
+      },
+      "12029": {
+        "type": "empty"
+      },
+      "12030": {
+        "id": 15297,
+        "name": "097",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12031": {
+        "name": null,
+        "type": "desk"
+      },
+      "12032": {
+        "id": 15299,
+        "name": "096",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12033": {
+        "type": "empty"
+      },
+      "12034": {
+        "id": 15301,
+        "name": "089",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12035": {
+        "name": null,
+        "type": "desk"
+      },
+      "12036": {
+        "id": 18969,
+        "name": "088",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12037": {
+        "type": "empty"
+      },
+      "12038": {
+        "id": 18965,
+        "name": "081",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12039": {
+        "name": null,
+        "type": "desk"
+      },
+      "12040": {
+        "id": 18961,
+        "name": "080",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12041": {
+        "type": "empty"
+      },
+      "12042": {
+        "id": 18973,
+        "name": "073",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12043": {
+        "name": null,
+        "type": "desk"
+      },
+      "12044": {
+        "id": 18977,
+        "name": "072",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "12045": {
+        "type": "empty"
+      },
+      "12046": {
+        "type": "empty"
+      },
+      "13000": {
+        "type": "empty"
+      },
+      "13001": {
+        "type": "empty"
+      },
+      "13002": {
+        "id": 15849,
+        "name": "146",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13003": {
+        "name": null,
+        "type": "desk"
+      },
+      "13004": {
+        "id": 15851,
+        "name": "143",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13005": {
+        "type": "empty"
+      },
+      "13006": {
+        "id": 15853,
+        "name": "138",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13007": {
+        "name": null,
+        "type": "desk"
+      },
+      "13008": {
+        "id": 15855,
+        "name": "135",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13009": {
+        "type": "empty"
+      },
+      "13010": {
+        "id": 15857,
+        "name": "130",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13011": {
+        "name": null,
+        "type": "desk"
+      },
+      "13012": {
+        "id": 15859,
+        "name": "127",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13013": {
+        "type": "empty"
+      },
+      "13014": {
+        "id": 15861,
+        "name": "122",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13015": {
+        "name": null,
+        "type": "desk"
+      },
+      "13016": {
+        "id": 15863,
+        "name": "119",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13017": {
+        "type": "empty"
+      },
+      "13018": {
+        "id": 15865,
+        "name": "114",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13019": {
+        "name": null,
+        "type": "desk"
+      },
+      "13020": {
+        "id": 15867,
+        "name": "111",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13021": {
+        "type": "empty"
+      },
+      "13022": {
+        "id": 15869,
+        "name": "106",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13023": {
+        "name": null,
+        "type": "desk"
+      },
+      "13024": {
+        "id": 15871,
+        "name": "103",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13025": {
+        "type": "empty"
+      },
+      "13026": {
+        "type": "empty"
+      },
+      "13027": {
+        "type": "empty"
+      },
+      "13028": {
+        "type": "empty"
+      },
+      "13029": {
+        "type": "empty"
+      },
+      "13030": {
+        "id": 15877,
+        "name": "098",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13031": {
+        "name": null,
+        "type": "desk"
+      },
+      "13032": {
+        "id": 15879,
+        "name": "095",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13033": {
+        "type": "empty"
+      },
+      "13034": {
+        "id": 15881,
+        "name": "090",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13035": {
+        "name": null,
+        "type": "desk"
+      },
+      "13036": {
+        "id": 18970,
+        "name": "087",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13037": {
+        "type": "empty"
+      },
+      "13038": {
+        "id": 18966,
+        "name": "082",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13039": {
+        "name": null,
+        "type": "desk"
+      },
+      "13040": {
+        "id": 18962,
+        "name": "079",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13041": {
+        "type": "empty"
+      },
+      "13042": {
+        "id": 18974,
+        "name": "074",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13043": {
+        "name": null,
+        "type": "desk"
+      },
+      "13044": {
+        "id": 18978,
+        "name": "071",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "13045": {
+        "type": "empty"
+      },
+      "13046": {
+        "type": "empty"
+      },
+      "14000": {
+        "type": "empty"
+      },
+      "14001": {
+        "type": "empty"
+      },
+      "14002": {
+        "id": 15359,
+        "name": "141",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14003": {
+        "name": null,
+        "type": "desk"
+      },
+      "14004": {
+        "id": 15361,
+        "name": "140",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14005": {
+        "type": "empty"
+      },
+      "14006": {
+        "id": 15363,
+        "name": "133",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14007": {
+        "name": null,
+        "type": "desk"
+      },
+      "14008": {
+        "id": 15365,
+        "name": "132",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14009": {
+        "type": "empty"
+      },
+      "14010": {
+        "id": 15367,
+        "name": "125",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14011": {
+        "name": null,
+        "type": "desk"
+      },
+      "14012": {
+        "id": 15369,
+        "name": "124",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14013": {
+        "type": "empty"
+      },
+      "14014": {
+        "id": 15371,
+        "name": "117",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14015": {
+        "name": null,
+        "type": "desk"
+      },
+      "14016": {
+        "id": 15373,
+        "name": "116",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14017": {
+        "type": "empty"
+      },
+      "14018": {
+        "id": 15375,
+        "name": "109",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14019": {
+        "name": null,
+        "type": "desk"
+      },
+      "14020": {
+        "id": 15377,
+        "name": "108",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14021": {
+        "type": "empty"
+      },
+      "14022": {
+        "id": 15379,
+        "name": "101",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14023": {
+        "name": null,
+        "type": "desk"
+      },
+      "14024": {
+        "id": 15381,
+        "name": "100",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14025": {
+        "type": "empty"
+      },
+      "14026": {
+        "type": "empty"
+      },
+      "14027": {
+        "type": "empty"
+      },
+      "14028": {
+        "type": "empty"
+      },
+      "14029": {
+        "type": "empty"
+      },
+      "14030": {
+        "id": 15387,
+        "name": "093",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14031": {
+        "name": null,
+        "type": "desk"
+      },
+      "14032": {
+        "id": 15389,
+        "name": "092",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14033": {
+        "type": "empty"
+      },
+      "14034": {
+        "id": 15391,
+        "name": "085",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14035": {
+        "name": null,
+        "type": "desk"
+      },
+      "14036": {
+        "id": 18971,
+        "name": "084",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14037": {
+        "type": "empty"
+      },
+      "14038": {
+        "id": 18967,
+        "name": "077",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14039": {
+        "name": null,
+        "type": "desk"
+      },
+      "14040": {
+        "id": 18963,
+        "name": "076",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14041": {
+        "type": "empty"
+      },
+      "14042": {
+        "id": 18975,
+        "name": "069",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14043": {
+        "name": null,
+        "type": "desk"
+      },
+      "14044": {
+        "id": 18979,
+        "name": "068",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "14045": {
+        "type": "empty"
+      },
+      "14046": {
+        "type": "empty"
+      },
+      "15000": {
+        "type": "empty"
+      },
+      "15001": {
+        "type": "empty"
+      },
+      "15002": {
+        "id": 15404,
+        "name": "142",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15003": {
+        "name": null,
+        "type": "desk"
+      },
+      "15004": {
+        "id": 15406,
+        "name": "139",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15005": {
+        "type": "empty"
+      },
+      "15006": {
+        "id": 15408,
+        "name": "134",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15007": {
+        "name": null,
+        "type": "desk"
+      },
+      "15008": {
+        "id": 15410,
+        "name": "131",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15009": {
+        "type": "empty"
+      },
+      "15010": {
+        "id": 15412,
+        "name": "126",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15011": {
+        "name": null,
+        "type": "desk"
+      },
+      "15012": {
+        "id": 15414,
+        "name": "123",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15013": {
+        "type": "empty"
+      },
+      "15014": {
+        "id": 15416,
+        "name": "118",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15015": {
+        "name": null,
+        "type": "desk"
+      },
+      "15016": {
+        "id": 15418,
+        "name": "115",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15017": {
+        "type": "empty"
+      },
+      "15018": {
+        "id": 15420,
+        "name": "110",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15019": {
+        "name": null,
+        "type": "desk"
+      },
+      "15020": {
+        "id": 15422,
+        "name": "107",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15021": {
+        "type": "empty"
+      },
+      "15022": {
+        "id": 15424,
+        "name": "102",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15023": {
+        "name": null,
+        "type": "desk"
+      },
+      "15024": {
+        "id": 15426,
+        "name": "099",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15025": {
+        "type": "empty"
+      },
+      "15026": {
+        "type": "empty"
+      },
+      "15027": {
+        "type": "empty"
+      },
+      "15028": {
+        "type": "empty"
+      },
+      "15029": {
+        "type": "empty"
+      },
+      "15030": {
+        "id": 15432,
+        "name": "094",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15031": {
+        "name": null,
+        "type": "desk"
+      },
+      "15032": {
+        "id": 15434,
+        "name": "091",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15033": {
+        "type": "empty"
+      },
+      "15034": {
+        "id": 15436,
+        "name": "086",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15035": {
+        "name": null,
+        "type": "desk"
+      },
+      "15036": {
+        "id": 18972,
+        "name": "083",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15037": {
+        "type": "empty"
+      },
+      "15038": {
+        "id": 18968,
+        "name": "078",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15039": {
+        "name": null,
+        "type": "desk"
+      },
+      "15040": {
+        "id": 18964,
+        "name": "075",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15041": {
+        "type": "empty"
+      },
+      "15042": {
+        "id": 18976,
+        "name": "070",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15043": {
+        "name": null,
+        "type": "desk"
+      },
+      "15044": {
+        "id": 18980,
+        "name": "067",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "15045": {
+        "type": "empty"
+      },
+      "15046": {
+        "type": "empty"
+      },
+      "16000": {
+        "type": "empty"
+      },
+      "16001": {
+        "type": "empty"
+      },
+      "16002": {
+        "type": "empty"
+      },
+      "16003": {
+        "type": "empty"
+      },
+      "16004": {
+        "type": "empty"
+      },
+      "16005": {
+        "type": "empty"
+      },
+      "16006": {
+        "type": "empty"
+      },
+      "16007": {
+        "type": "empty"
+      },
+      "16008": {
+        "type": "empty"
+      },
+      "16009": {
+        "type": "empty"
+      },
+      "16010": {
+        "type": "empty"
+      },
+      "16011": {
+        "type": "empty"
+      },
+      "16012": {
+        "type": "empty"
+      },
+      "16013": {
+        "type": "empty"
+      },
+      "16014": {
+        "type": "empty"
+      },
+      "16015": {
+        "type": "empty"
+      },
+      "16016": {
+        "type": "empty"
+      },
+      "16017": {
+        "type": "empty"
+      },
+      "16018": {
+        "type": "empty"
+      },
+      "16019": {
+        "type": "empty"
+      },
+      "16020": {
+        "type": "empty"
+      },
+      "16021": {
+        "type": "empty"
+      },
+      "16022": {
+        "type": "empty"
+      },
+      "16023": {
+        "type": "empty"
+      },
+      "16024": {
+        "type": "empty"
+      },
+      "16025": {
+        "type": "empty"
+      },
+      "16026": {
+        "type": "empty"
+      },
+      "16027": {
+        "type": "empty"
+      },
+      "16028": {
+        "type": "empty"
+      },
+      "16029": {
+        "type": "empty"
+      },
+      "16030": {
+        "type": "empty"
+      },
+      "16031": {
+        "type": "empty"
+      },
+      "16032": {
+        "type": "empty"
+      },
+      "16033": {
+        "type": "empty"
+      },
+      "16034": {
+        "type": "empty"
+      },
+      "16035": {
+        "type": "empty"
+      },
+      "16036": {
+        "type": "empty"
+      },
+      "16037": {
+        "type": "empty"
+      },
+      "16038": {
+        "type": "empty"
+      },
+      "16039": {
+        "type": "empty"
+      },
+      "16040": {
+        "type": "empty"
+      },
+      "16041": {
+        "type": "empty"
+      },
+      "16042": {
+        "type": "empty"
+      },
+      "16043": {
+        "type": "empty"
+      },
+      "16044": {
+        "type": "empty"
+      },
+      "16045": {
+        "type": "empty"
+      },
+      "16046": {
+        "type": "empty"
+      },
+      "17000": {
+        "type": "empty"
+      },
+      "17001": {
+        "type": "empty"
+      },
+      "17002": {
+        "type": "empty"
+      },
+      "17003": {
+        "type": "empty"
+      },
+      "17004": {
+        "type": "empty"
+      },
+      "17005": {
+        "type": "empty"
+      },
+      "17006": {
+        "type": "empty"
+      },
+      "17007": {
+        "type": "empty"
+      },
+      "17008": {
+        "type": "empty"
+      },
+      "17009": {
+        "type": "empty"
+      },
+      "17010": {
+        "type": "empty"
+      },
+      "17011": {
+        "type": "empty"
+      },
+      "17012": {
+        "type": "empty"
+      },
+      "17013": {
+        "type": "empty"
+      },
+      "17014": {
+        "type": "empty"
+      },
+      "17015": {
+        "type": "empty"
+      },
+      "17016": {
+        "type": "empty"
+      },
+      "17017": {
+        "type": "empty"
+      },
+      "17018": {
+        "type": "empty"
+      },
+      "17019": {
+        "type": "empty"
+      },
+      "17020": {
+        "type": "empty"
+      },
+      "17021": {
+        "type": "empty"
+      },
+      "17022": {
+        "type": "empty"
+      },
+      "17023": {
+        "type": "empty"
+      },
+      "17024": {
+        "type": "empty"
+      },
+      "17025": {
+        "type": "empty"
+      },
+      "17026": {
+        "type": "empty"
+      },
+      "17027": {
+        "type": "empty"
+      },
+      "17028": {
+        "type": "empty"
+      },
+      "17029": {
+        "type": "empty"
+      },
+      "17030": {
+        "type": "empty"
+      },
+      "17031": {
+        "type": "empty"
+      },
+      "17032": {
+        "type": "empty"
+      },
+      "17033": {
+        "type": "empty"
+      },
+      "17034": {
+        "type": "empty"
+      },
+      "17035": {
+        "type": "empty"
+      },
+      "17036": {
+        "type": "empty"
+      },
+      "17037": {
+        "type": "empty"
+      },
+      "17038": {
+        "type": "empty"
+      },
+      "17039": {
+        "type": "empty"
+      },
+      "17040": {
+        "type": "empty"
+      },
+      "17041": {
+        "type": "empty"
+      },
+      "17042": {
+        "type": "empty"
+      },
+      "17043": {
+        "type": "empty"
+      },
+      "17044": {
+        "type": "empty"
+      },
+      "17045": {
+        "type": "empty"
+      },
+      "17046": {
+        "type": "empty"
+      },
+      "18000": {
+        "type": "empty"
+      },
+      "18001": {
+        "type": "empty"
+      },
+      "18002": {
+        "id": 15539,
+        "name": "064",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18003": {
+        "name": null,
+        "type": "desk"
+      },
+      "18004": {
+        "id": 15541,
+        "name": "063",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18005": {
+        "type": "empty"
+      },
+      "18006": {
+        "id": 15543,
+        "name": "058",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18007": {
+        "name": null,
+        "type": "desk"
+      },
+      "18008": {
+        "id": 15545,
+        "name": "057",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18009": {
+        "type": "empty"
+      },
+      "18010": {
+        "id": 15547,
+        "name": "052",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18011": {
+        "name": null,
+        "type": "desk"
+      },
+      "18012": {
+        "id": 15549,
+        "name": "051",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18013": {
+        "type": "empty"
+      },
+      "18014": {
+        "id": 15551,
+        "name": "046",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18015": {
+        "name": null,
+        "type": "desk"
+      },
+      "18016": {
+        "id": 15553,
+        "name": "045",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18017": {
+        "type": "empty"
+      },
+      "18018": {
+        "id": 15555,
+        "name": "040",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18019": {
+        "name": null,
+        "type": "desk"
+      },
+      "18020": {
+        "id": 15557,
+        "name": "039",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18021": {
+        "type": "empty"
+      },
+      "18022": {
+        "id": 15559,
+        "name": "034",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18023": {
+        "name": null,
+        "type": "desk"
+      },
+      "18024": {
+        "id": 15561,
+        "name": "033",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18025": {
+        "type": "empty"
+      },
+      "18026": {
+        "id": 15563,
+        "name": "028",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18027": {
+        "name": null,
+        "type": "desk"
+      },
+      "18028": {
+        "id": 15565,
+        "name": "027",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18029": {
+        "type": "empty"
+      },
+      "18030": {
+        "id": 15567,
+        "name": "022",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18031": {
+        "name": null,
+        "type": "desk"
+      },
+      "18032": {
+        "id": 15569,
+        "name": "021",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18033": {
+        "type": "empty"
+      },
+      "18034": {
+        "id": 15571,
+        "name": "016",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18035": {
+        "name": null,
+        "type": "desk"
+      },
+      "18036": {
+        "id": 15573,
+        "name": "015",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18037": {
+        "type": "empty"
+      },
+      "18038": {
+        "id": 15575,
+        "name": "010",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18039": {
+        "name": null,
+        "type": "desk"
+      },
+      "18040": {
+        "id": 15577,
+        "name": "009",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18041": {
+        "type": "empty"
+      },
+      "18042": {
+        "id": 15579,
+        "name": "004",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18043": {
+        "name": null,
+        "type": "desk"
+      },
+      "18044": {
+        "id": 15581,
+        "name": "003",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "18045": {
+        "type": "empty"
+      },
+      "18046": {
+        "type": "empty"
+      },
+      "19000": {
+        "type": "empty"
+      },
+      "19001": {
+        "type": "empty"
+      },
+      "19002": {
+        "id": 15584,
+        "name": "065",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19003": {
+        "name": null,
+        "type": "desk"
+      },
+      "19004": {
+        "id": 15586,
+        "name": "062",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19005": {
+        "type": "empty"
+      },
+      "19006": {
+        "id": 15588,
+        "name": "059",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19007": {
+        "name": null,
+        "type": "desk"
+      },
+      "19008": {
+        "id": 15590,
+        "name": "056",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19009": {
+        "type": "empty"
+      },
+      "19010": {
+        "id": 15592,
+        "name": "053",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19011": {
+        "name": null,
+        "type": "desk"
+      },
+      "19012": {
+        "id": 15594,
+        "name": "050",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19013": {
+        "type": "empty"
+      },
+      "19014": {
+        "id": 15596,
+        "name": "047",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19015": {
+        "name": null,
+        "type": "desk"
+      },
+      "19016": {
+        "id": 15598,
+        "name": "044",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19017": {
+        "type": "empty"
+      },
+      "19018": {
+        "id": 15600,
+        "name": "041",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19019": {
+        "name": null,
+        "type": "desk"
+      },
+      "19020": {
+        "id": 15602,
+        "name": "038",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19021": {
+        "type": "empty"
+      },
+      "19022": {
+        "id": 15604,
+        "name": "035",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19023": {
+        "name": null,
+        "type": "desk"
+      },
+      "19024": {
+        "id": 15606,
+        "name": "032",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19025": {
+        "type": "empty"
+      },
+      "19026": {
+        "id": 15608,
+        "name": "029",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19027": {
+        "name": null,
+        "type": "desk"
+      },
+      "19028": {
+        "id": 15610,
+        "name": "026",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19029": {
+        "type": "empty"
+      },
+      "19030": {
+        "id": 15612,
+        "name": "023",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19031": {
+        "name": null,
+        "type": "desk"
+      },
+      "19032": {
+        "id": 15614,
+        "name": "020",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19033": {
+        "type": "empty"
+      },
+      "19034": {
+        "id": 15616,
+        "name": "017",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19035": {
+        "name": null,
+        "type": "desk"
+      },
+      "19036": {
+        "id": 15618,
+        "name": "014",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19037": {
+        "type": "empty"
+      },
+      "19038": {
+        "id": 15620,
+        "name": "011",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19039": {
+        "name": null,
+        "type": "desk"
+      },
+      "19040": {
+        "id": 15622,
+        "name": "008",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19041": {
+        "type": "empty"
+      },
+      "19042": {
+        "id": 15624,
+        "name": "005",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19043": {
+        "name": null,
+        "type": "desk"
+      },
+      "19044": {
+        "id": 15626,
+        "name": "002",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "19045": {
+        "type": "empty"
+      },
+      "19046": {
+        "type": "empty"
+      },
+      "20000": {
+        "type": "empty"
+      },
+      "20001": {
+        "type": "empty"
+      },
+      "20002": {
+        "id": 15629,
+        "name": "066",
+        "type": "seat",
+        "status": "AWAY",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20003": {
+        "name": null,
+        "type": "desk"
+      },
+      "20004": {
+        "id": 15631,
+        "name": "061",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20005": {
+        "type": "empty"
+      },
+      "20006": {
+        "id": 15633,
+        "name": "060",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20007": {
+        "name": null,
+        "type": "desk"
+      },
+      "20008": {
+        "id": 15635,
+        "name": "055",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20009": {
+        "type": "empty"
+      },
+      "20010": {
+        "id": 15637,
+        "name": "054",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20011": {
+        "name": null,
+        "type": "desk"
+      },
+      "20012": {
+        "id": 15639,
+        "name": "049",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20013": {
+        "type": "empty"
+      },
+      "20014": {
+        "id": 15641,
+        "name": "048",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20015": {
+        "name": null,
+        "type": "desk"
+      },
+      "20016": {
+        "id": 15643,
+        "name": "043",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20017": {
+        "type": "empty"
+      },
+      "20018": {
+        "id": 15645,
+        "name": "042",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20019": {
+        "name": null,
+        "type": "desk"
+      },
+      "20020": {
+        "id": 15647,
+        "name": "037",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20021": {
+        "type": "empty"
+      },
+      "20022": {
+        "id": 15649,
+        "name": "036",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20023": {
+        "name": null,
+        "type": "desk"
+      },
+      "20024": {
+        "id": 15651,
+        "name": "031",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20025": {
+        "type": "empty"
+      },
+      "20026": {
+        "id": 15653,
+        "name": "030",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20027": {
+        "name": null,
+        "type": "desk"
+      },
+      "20028": {
+        "id": 15655,
+        "name": "025",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20029": {
+        "type": "empty"
+      },
+      "20030": {
+        "id": 15657,
+        "name": "024",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20031": {
+        "name": null,
+        "type": "desk"
+      },
+      "20032": {
+        "id": 15659,
+        "name": "019",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20033": {
+        "type": "empty"
+      },
+      "20034": {
+        "id": 15661,
+        "name": "018",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20035": {
+        "name": null,
+        "type": "desk"
+      },
+      "20036": {
+        "id": 15663,
+        "name": "013",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20037": {
+        "type": "empty"
+      },
+      "20038": {
+        "id": 15665,
+        "name": "012",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20039": {
+        "name": null,
+        "type": "desk"
+      },
+      "20040": {
+        "id": 15667,
+        "name": "007",
+        "type": "seat",
+        "status": "AWAY",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20041": {
+        "type": "empty"
+      },
+      "20042": {
+        "id": 15669,
+        "name": "006",
+        "type": "seat",
+        "status": "BOOKED",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20043": {
+        "name": null,
+        "type": "desk"
+      },
+      "20044": {
+        "id": 15671,
+        "name": "001",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "20045": {
+        "type": "empty"
+      },
+      "20046": {
+        "type": "empty"
+      },
+      "21000": {
+        "type": "empty"
+      },
+      "21001": {
+        "type": "empty"
+      },
+      "21002": {
+        "type": "empty"
+      },
+      "21003": {
+        "type": "empty"
+      },
+      "21004": {
+        "type": "empty"
+      },
+      "21005": {
+        "type": "empty"
+      },
+      "21006": {
+        "type": "empty"
+      },
+      "21007": {
+        "type": "empty"
+      },
+      "21008": {
+        "type": "empty"
+      },
+      "21009": {
+        "type": "empty"
+      },
+      "21010": {
+        "type": "empty"
+      },
+      "21011": {
+        "type": "empty"
+      },
+      "21012": {
+        "type": "empty"
+      },
+      "21013": {
+        "type": "empty"
+      },
+      "21014": {
+        "type": "empty"
+      },
+      "21015": {
+        "type": "empty"
+      },
+      "21016": {
+        "type": "empty"
+      },
+      "21017": {
+        "type": "empty"
+      },
+      "21018": {
+        "type": "empty"
+      },
+      "21019": {
+        "type": "empty"
+      },
+      "21020": {
+        "type": "empty"
+      },
+      "21021": {
+        "type": "empty"
+      },
+      "21022": {
+        "type": "empty"
+      },
+      "21023": {
+        "type": "empty"
+      },
+      "21024": {
+        "type": "empty"
+      },
+      "21025": {
+        "type": "empty"
+      },
+      "21026": {
+        "type": "empty"
+      },
+      "21027": {
+        "type": "empty"
+      },
+      "21028": {
+        "type": "empty"
+      },
+      "21029": {
+        "type": "empty"
+      },
+      "21030": {
+        "type": "empty"
+      },
+      "21031": {
+        "type": "empty"
+      },
+      "21032": {
+        "type": "empty"
+      },
+      "21033": {
+        "type": "empty"
+      },
+      "21034": {
+        "type": "empty"
+      },
+      "21035": {
+        "type": "empty"
+      },
+      "21036": {
+        "type": "empty"
+      },
+      "21037": {
+        "type": "empty"
+      },
+      "21038": {
+        "type": "empty"
+      },
+      "21039": {
+        "type": "empty"
+      },
+      "21040": {
+        "type": "empty"
+      },
+      "21041": {
+        "type": "empty"
+      },
+      "21042": {
+        "type": "empty"
+      },
+      "21043": {
+        "type": "empty"
+      },
+      "21044": {
+        "type": "empty"
+      },
+      "21045": {
+        "type": "empty"
+      },
+      "21046": {
+        "type": "empty"
+      },
+      "22000": {
+        "type": "empty"
+      },
+      "22001": {
+        "type": "empty"
+      },
+      "22002": {
+        "type": "empty"
+      },
+      "22003": {
+        "type": "empty"
+      },
+      "22004": {
+        "type": "empty"
+      },
+      "22005": {
+        "type": "empty"
+      },
+      "22006": {
+        "type": "empty"
+      },
+      "22007": {
+        "type": "empty"
+      },
+      "22008": {
+        "type": "empty"
+      },
+      "22009": {
+        "type": "empty"
+      },
+      "22010": {
+        "type": "empty"
+      },
+      "22011": {
+        "type": "empty"
+      },
+      "22012": {
+        "type": "empty"
+      },
+      "22013": {
+        "type": "empty"
+      },
+      "22014": {
+        "type": "empty"
+      },
+      "22015": {
+        "type": "empty"
+      },
+      "22016": {
+        "type": "empty"
+      },
+      "22017": {
+        "type": "empty"
+      },
+      "22018": {
+        "type": "empty"
+      },
+      "22019": {
+        "type": "empty"
+      },
+      "22020": {
+        "type": "empty"
+      },
+      "22021": {
+        "type": "empty"
+      },
+      "22022": {
+        "type": "empty"
+      },
+      "22023": {
+        "type": "empty"
+      },
+      "22024": {
+        "type": "empty"
+      },
+      "22025": {
+        "type": "empty"
+      },
+      "22026": {
+        "type": "empty"
+      },
+      "22027": {
+        "type": "empty"
+      },
+      "22028": {
+        "type": "empty"
+      },
+      "22029": {
+        "type": "empty"
+      },
+      "22030": {
+        "type": "empty"
+      },
+      "22031": {
+        "type": "empty"
+      },
+      "22032": {
+        "type": "empty"
+      },
+      "22033": {
+        "type": "empty"
+      },
+      "22034": {
+        "type": "empty"
+      },
+      "22035": {
+        "type": "empty"
+      },
+      "22036": {
+        "type": "empty"
+      },
+      "22037": {
+        "type": "empty"
+      },
+      "22038": {
+        "type": "empty"
+      },
+      "22039": {
+        "type": "empty"
+      },
+      "22040": {
+        "type": "empty"
+      },
+      "22041": {
+        "type": "empty"
+      },
+      "22042": {
+        "type": "empty"
+      },
+      "22043": {
+        "type": "empty"
+      },
+      "22044": {
+        "type": "empty"
+      },
+      "22045": {
+        "type": "empty"
+      },
+      "22046": {
+        "type": "empty"
+      }
+    }
+  },
+  "message": "",
+  "code": "0"
+}

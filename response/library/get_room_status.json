@@ -1,0 +1,2673 @@
+{
+  "status": "success",
+  "data": {
+    "id": 23,
+    "name": "6层社会科学借阅区（Ⅰ）",
+    "cols": 59,
+    "rows": 12,
+    "layout": {
+      "0": {
+        "type": "empty"
+      },
+      "1": {
+        "type": "empty"
+      },
+      "2": {
+        "type": "empty"
+      },
+      "3": {
+        "type": "empty"
+      },
+      "4": {
+        "type": "empty"
+      },
+      "5": {
+        "type": "empty"
+      },
+      "6": {
+        "type": "empty"
+      },
+      "7": {
+        "type": "empty"
+      },
+      "8": {
+        "type": "empty"
+      },
+      "9": {
+        "type": "empty"
+      },
+      "10": {
+        "type": "empty"
+      },
+      "11": {
+        "type": "empty"
+      },
+      "12": {
+        "type": "empty"
+      },
+      "13": {
+        "type": "empty"
+      },
+      "14": {
+        "type": "empty"
+      },
+      "15": {
+        "type": "empty"
+      },
+      "16": {
+        "type": "empty"
+      },
+      "17": {
+        "type": "empty"
+      },
+      "18": {
+        "type": "empty"
+      },
+      "19": {
+        "type": "empty"
+      },
+      "20": {
+        "type": "empty"
+      },
+      "21": {
+        "type": "empty"
+      },
+      "22": {
+        "type": "empty"
+      },
+      "23": {
+        "type": "empty"
+      },
+      "24": {
+        "type": "empty"
+      },
+      "25": {
+        "type": "empty"
+      },
+      "26": {
+        "type": "empty"
+      },
+      "27": {
+        "type": "empty"
+      },
+      "28": {
+        "type": "empty"
+      },
+      "29": {
+        "type": "empty"
+      },
+      "30": {
+        "type": "empty"
+      },
+      "31": {
+        "type": "empty"
+      },
+      "32": {
+        "type": "empty"
+      },
+      "33": {
+        "type": "empty"
+      },
+      "34": {
+        "type": "empty"
+      },
+      "35": {
+        "type": "empty"
+      },
+      "36": {
+        "type": "empty"
+      },
+      "37": {
+        "type": "empty"
+      },
+      "38": {
+        "type": "empty"
+      },
+      "39": {
+        "type": "empty"
+      },
+      "40": {
+        "type": "empty"
+      },
+      "41": {
+        "type": "empty"
+      },
+      "42": {
+        "type": "empty"
+      },
+      "43": {
+        "type": "empty"
+      },
+      "44": {
+        "type": "empty"
+      },
+      "45": {
+        "type": "empty"
+      },
+      "46": {
+        "type": "empty"
+      },
+      "47": {
+        "type": "empty"
+      },
+      "48": {
+        "type": "empty"
+      },
+      "49": {
+        "type": "empty"
+      },
+      "50": {
+        "type": "empty"
+      },
+      "51": {
+        "type": "empty"
+      },
+      "52": {
+        "type": "empty"
+      },
+      "53": {
+        "type": "empty"
+      },
+      "54": {
+        "type": "empty"
+      },
+      "55": {
+        "type": "empty"
+      },
+      "56": {
+        "type": "empty"
+      },
+      "57": {
+        "type": "empty"
+      },
+      "58": {
+        "type": "empty"
+      },
+      "1000": {
+        "type": "empty"
+      },
+      "1001": {
+        "name": "↑",
+        "type": "word"
+      },
+      "1002": {
+        "type": "empty"
+      },
+      "1003": {
+        "type": "empty"
+      },
+      "1004": {
+        "type": "empty"
+      },
+      "1005": {
+        "type": "empty"
+      },
+      "1006": {
+        "type": "empty"
+      },
+      "1007": {
+        "type": "empty"
+      },
+      "1008": {
+        "type": "empty"
+      },
+      "1009": {
+        "type": "empty"
+      },
+      "1010": {
+        "type": "empty"
+      },
+      "1011": {
+        "type": "empty"
+      },
+      "1012": {
+        "type": "empty"
+      },
+      "1013": {
+        "type": "empty"
+      },
+      "1014": {
+        "type": "empty"
+      },
+      "1015": {
+        "type": "empty"
+      },
+      "1016": {
+        "type": "empty"
+      },
+      "1017": {
+        "type": "empty"
+      },
+      "1018": {
+        "type": "empty"
+      },
+      "1019": {
+        "type": "empty"
+      },
+      "1020": {
+        "type": "empty"
+      },
+      "1021": {
+        "type": "empty"
+      },
+      "1022": {
+        "type": "empty"
+      },
+      "1023": {
+        "type": "empty"
+      },
+      "1024": {
+        "type": "empty"
+      },
+      "1025": {
+        "type": "empty"
+      },
+      "1026": {
+        "type": "empty"
+      },
+      "1027": {
+        "type": "empty"
+      },
+      "1028": {
+        "type": "empty"
+      },
+      "1029": {
+        "type": "empty"
+      },
+      "1030": {
+        "type": "empty"
+      },
+      "1031": {
+        "type": "empty"
+      },
+      "1032": {
+        "type": "empty"
+      },
+      "1033": {
+        "type": "empty"
+      },
+      "1034": {
+        "type": "empty"
+      },
+      "1035": {
+        "type": "empty"
+      },
+      "1036": {
+        "type": "empty"
+      },
+      "1037": {
+        "type": "empty"
+      },
+      "1038": {
+        "type": "empty"
+      },
+      "1039": {
+        "type": "empty"
+      },
+      "1040": {
+        "type": "empty"
+      },
+      "1041": {
+        "type": "empty"
+      },
+      "1042": {
+        "type": "empty"
+      },
+      "1043": {
+        "type": "empty"
+      },
+      "1044": {
+        "type": "empty"
+      },
+      "1045": {
+        "type": "empty"
+      },
+      "1046": {
+        "type": "empty"
+      },
+      "1047": {
+        "type": "empty"
+      },
+      "1048": {
+        "type": "empty"
+      },
+      "1049": {
+        "type": "empty"
+      },
+      "1050": {
+        "type": "empty"
+      },
+      "1051": {
+        "type": "empty"
+      },
+      "1052": {
+        "type": "empty"
+      },
+      "1053": {
+        "type": "empty"
+      },
+      "1054": {
+        "type": "empty"
+      },
+      "1055": {
+        "type": "empty"
+      },
+      "1056": {
+        "type": "empty"
+      },
+      "1057": {
+        "type": "empty"
+      },
+      "1058": {
+        "type": "empty"
+      },
+      "2000": {
+        "type": "empty"
+      },
+      "2001": {
+        "name": "北",
+        "type": "word"
+      },
+      "2002": {
+        "id": 10567,
+        "name": "001",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2003": {
+        "name": "",
+        "type": "desk"
+      },
+      "2004": {
+        "id": 10569,
+        "name": "004",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2005": {
+        "id": 10570,
+        "name": "005",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2006": {
+        "name": "",
+        "type": "desk"
+      },
+      "2007": {
+        "id": 10572,
+        "name": "008",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2008": {
+        "id": 10573,
+        "name": "009",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2009": {
+        "name": "",
+        "type": "desk"
+      },
+      "2010": {
+        "id": 10575,
+        "name": "012",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2011": {
+        "type": "empty"
+      },
+      "2012": {
+        "type": "empty"
+      },
+      "2013": {
+        "id": 10597,
+        "name": "013",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2014": {
+        "name": "",
+        "type": "desk"
+      },
+      "2015": {
+        "id": 10599,
+        "name": "016",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2016": {
+        "id": 10600,
+        "name": "017",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2017": {
+        "name": "",
+        "type": "desk"
+      },
+      "2018": {
+        "id": 10602,
+        "name": "020",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2019": {
+        "id": 10603,
+        "name": "021",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2020": {
+        "name": "",
+        "type": "desk"
+      },
+      "2021": {
+        "id": 10605,
+        "name": "024",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2022": {
+        "id": 10606,
+        "name": "025",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2023": {
+        "name": "",
+        "type": "desk"
+      },
+      "2024": {
+        "id": 10608,
+        "name": "028",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2025": {
+        "id": 10609,
+        "name": "029",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2026": {
+        "name": "",
+        "type": "desk"
+      },
+      "2027": {
+        "id": 10611,
+        "name": "032",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2028": {
+        "id": 10612,
+        "name": "033",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2029": {
+        "name": "",
+        "type": "desk"
+      },
+      "2030": {
+        "id": 10614,
+        "name": "036",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2031": {
+        "id": 10615,
+        "name": "037",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2032": {
+        "name": "",
+        "type": "desk"
+      },
+      "2033": {
+        "id": 10617,
+        "name": "040",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2034": {
+        "id": 10618,
+        "name": "041",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2035": {
+        "name": "",
+        "type": "desk"
+      },
+      "2036": {
+        "id": 10620,
+        "name": "044",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2037": {
+        "id": 10621,
+        "name": "045",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2038": {
+        "name": "",
+        "type": "desk"
+      },
+      "2039": {
+        "id": 10623,
+        "name": "048",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2040": {
+        "id": 10624,
+        "name": "049",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2041": {
+        "name": "",
+        "type": "desk"
+      },
+      "2042": {
+        "id": 10626,
+        "name": "052",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2043": {
+        "id": 10657,
+        "name": "053",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2044": {
+        "name": "",
+        "type": "desk"
+      },
+      "2045": {
+        "id": 10659,
+        "name": "056",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2046": {
+        "type": "empty"
+      },
+      "2047": {
+        "type": "empty"
+      },
+      "2048": {
+        "id": 10663,
+        "name": "057",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2049": {
+        "name": "",
+        "type": "desk"
+      },
+      "2050": {
+        "id": 10665,
+        "name": "060",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2051": {
+        "id": 10666,
+        "name": "061",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2052": {
+        "name": "",
+        "type": "desk"
+      },
+      "2053": {
+        "id": 10668,
+        "name": "064",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2054": {
+        "id": 10669,
+        "name": "065",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2055": {
+        "name": "",
+        "type": "desk"
+      },
+      "2056": {
+        "id": 10671,
+        "name": "068",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "2057": {
+        "type": "empty"
+      },
+      "2058": {
+        "type": "empty"
+      },
+      "3000": {
+        "type": "empty"
+      },
+      "3001": {
+        "type": "empty"
+      },
+      "3002": {
+        "id": 10577,
+        "name": "002",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3003": {
+        "name": "",
+        "type": "desk"
+      },
+      "3004": {
+        "id": 10579,
+        "name": "003",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3005": {
+        "id": 10580,
+        "name": "006",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3006": {
+        "name": "",
+        "type": "desk"
+      },
+      "3007": {
+        "id": 10582,
+        "name": "007",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3008": {
+        "id": 10583,
+        "name": "010",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3009": {
+        "name": "",
+        "type": "desk"
+      },
+      "3010": {
+        "id": 10585,
+        "name": "011",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3011": {
+        "type": "empty"
+      },
+      "3012": {
+        "type": "empty"
+      },
+      "3013": {
+        "id": 10627,
+        "name": "014",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3014": {
+        "name": "",
+        "type": "desk"
+      },
+      "3015": {
+        "id": 10629,
+        "name": "015",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3016": {
+        "id": 10630,
+        "name": "018",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3017": {
+        "name": "",
+        "type": "desk"
+      },
+      "3018": {
+        "id": 10632,
+        "name": "019",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3019": {
+        "id": 10633,
+        "name": "022",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3020": {
+        "name": "",
+        "type": "desk"
+      },
+      "3021": {
+        "id": 10635,
+        "name": "023",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3022": {
+        "id": 10636,
+        "name": "026",
+        "type": "seat",
+        "status": "FREE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3023": {
+        "name": "",
+        "type": "desk"
+      },
+      "3024": {
+        "id": 10638,
+        "name": "027",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3025": {
+        "id": 10639,
+        "name": "030",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3026": {
+        "name": "",
+        "type": "desk"
+      },
+      "3027": {
+        "id": 10641,
+        "name": "031",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3028": {
+        "id": 10642,
+        "name": "034",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3029": {
+        "name": "",
+        "type": "desk"
+      },
+      "3030": {
+        "id": 10644,
+        "name": "035",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3031": {
+        "id": 10645,
+        "name": "038",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3032": {
+        "name": "",
+        "type": "desk"
+      },
+      "3033": {
+        "id": 10647,
+        "name": "039",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3034": {
+        "id": 10648,
+        "name": "042",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3035": {
+        "name": "",
+        "type": "desk"
+      },
+      "3036": {
+        "id": 10650,
+        "name": "043",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3037": {
+        "id": 10651,
+        "name": "046",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3038": {
+        "name": "",
+        "type": "desk"
+      },
+      "3039": {
+        "id": 10653,
+        "name": "047",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3040": {
+        "id": 10654,
+        "name": "050",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3041": {
+        "name": "",
+        "type": "desk"
+      },
+      "3042": {
+        "id": 10656,
+        "name": "051",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3043": {
+        "id": 10660,
+        "name": "054",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3044": {
+        "name": "",
+        "type": "desk"
+      },
+      "3045": {
+        "id": 10662,
+        "name": "055",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3046": {
+        "type": "empty"
+      },
+      "3047": {
+        "type": "empty"
+      },
+      "3048": {
+        "id": 10672,
+        "name": "058",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3049": {
+        "name": "",
+        "type": "desk"
+      },
+      "3050": {
+        "id": 10674,
+        "name": "059",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3051": {
+        "id": 10675,
+        "name": "062",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3052": {
+        "name": "",
+        "type": "desk"
+      },
+      "3053": {
+        "id": 10677,
+        "name": "063",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3054": {
+        "id": 10678,
+        "name": "066",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3055": {
+        "name": "",
+        "type": "desk"
+      },
+      "3056": {
+        "id": 10680,
+        "name": "067",
+        "type": "seat",
+        "status": "IN_USE",
+        "window": false,
+        "power": false,
+        "computer": false,
+        "local": false
+      },
+      "3057": {
+        "type": "empty"
+      },
+      "3058": {
+        "type": "empty"
+      },
+      "4000": {
+        "name": "",
+        "type": "door"
+      },
+      "4001": {
+        "type": "empty"
+      },
+      "4002": {
+        "type": "empty"
+      },
+      "4003": {
+        "type": "empty"
+      },
+      "4004": {
+        "type": "empty"
+      },
+      "4005": {
+        "type": "empty"
+      },
+      "4006": {
+        "type": "empty"
+      },
+      "4007": {
+        "type": "empty"
+      },
+      "4008": {
+        "type": "empty"
+      },
+      "4009": {
+        "type": "empty"
+      },
+      "4010": {
+        "type": "empty"
+      },
+      "4011": {
+        "type": "empty"
+      },
+      "4012": {
+        "type": "empty"
+      },
+      "4013": {
+        "type": "empty"
+      },
+      "4014": {
+        "type": "empty"
+      },
+      "4015": {
+        "type": "empty"
+      },
+      "4016": {
+        "type": "empty"
+      },
+      "4017": {
+        "type": "empty"
+      },
+      "4018": {
+        "type": "empty"
+      },
+      "4019": {
+        "type": "empty"
+      },
+      "4020": {
+        "type": "empty"
+      },
+      "4021": {
+        "type": "empty"
+      },
+      "4022": {
+        "type": "empty"
+      },
+      "4023": {
+        "type": "empty"
+      },
+      "4024": {
+        "type": "empty"
+      },
+      "4025": {
+        "type": "empty"
+      },
+      "4026": {
+        "type": "empty"
+      },
+      "4027": {
+        "type": "empty"
+      },
+      "4028": {
+        "type": "empty"
+      },
+      "4029": {
+        "type": "empty"
+      },
+      "4030": {
+        "type": "empty"
+      },
+      "4031": {
+        "type": "empty"
+      },
+      "4032": {
+        "type": "empty"
+      },
+      "4033": {
+        "type": "empty"
+      },
+      "4034": {
+        "type": "empty"
+      },
+      "4035": {
+        "type": "empty"
+      },
+      "4036": {
+        "type": "empty"
+      },
+      "4037": {
+        "type": "empty"
+      },
+      "4038": {
+        "type": "empty"
+      },
+      "4039": {
+        "type": "empty"
+      },
+      "4040": {
+        "type": "empty"
+      },
+      "4041": {
+        "type": "empty"
+      },
+      "4042": {
+        "type": "empty"
+      },
+      "4043": {
+        "type": "empty"
+      },
+      "4044": {
+        "type": "empty"
+      },
+      "4045": {
+        "type": "empty"
+      },
+      "4046": {
+        "type": "empty"
+      },
+      "4047": {
+        "type": "empty"
+      },
+      "4048": {
+        "type": "empty"
+      },
+      "4049": {
+        "type": "empty"
+      },
+      "4050": {
+        "type": "empty"
+      },
+      "4051": {
+        "type": "empty"
+      },
+      "4052": {
+        "type": "empty"
+      },
+      "4053": {
+        "type": "empty"
+      },
+      "4054": {
+        "type": "empty"
+      },
+      "4055": {
+        "type": "empty"
+      },
+      "4056": {
+        "type": "empty"
+      },
+      "4057": {
+        "type": "empty"
+      },
+      "4058": {
+        "name": "",
+        "type": "door"
+      },
+      "5000": {
+        "name": "",
+        "type": "door"
+      },
+      "5001": {
+        "type": "empty"
+      },
+      "5002": {
+        "type": "empty"
+      },
+      "5003": {
+        "type": "empty"
+      },
+      "5004": {
+        "type": "empty"
+      },
+      "5005": {
+        "type": "empty"
+      },
+      "5006": {
+        "type": "empty"
+      },
+      "5007": {
+        "type": "empty"
+      },
+      "5008": {
+        "type": "empty"
+      },
+      "5009": {
+        "type": "empty"
+      },
+      "5010": {
+        "type": "empty"
+      },
+      "5011": {
+        "type": "empty"
+      },
+      "5012": {
+        "type": "empty"
+      },
+      "5013": {
+        "type": "empty"
+      },
+      "5014": {
+        "type": "empty"
+      },
+      "5015": {
+        "type": "empty"
+      },
+      "5016": {
+        "type": "empty"
+      },
+      "5017": {
+        "type": "empty"
+      },
+      "5018": {
+        "type": "empty"
+      },
+      "5019": {
+        "type": "empty"
+      },
+      "5020": {
+        "type": "empty"
+      },
+      "5021": {
+        "type": "empty"
+      },
+      "5022": {
+        "type": "empty"
+      },
+      "5023": {
+        "type": "empty"
+      },
+      "5024": {
+        "type": "empty"
+      },
+      "5025": {
+        "type": "empty"
+      },
+      "5026": {
+        "type": "empty"
+      },
+      "5027": {
+        "type": "empty"
+      },
+      "5028": {
+        "type": "empty"
+      },
+      "5029": {
+        "type": "empty"
+      },
+      "5030": {
+        "type": "empty"
+      },
+      "5031": {
+        "type": "empty"
+      },
+      "5032": {
+        "type": "empty"
+      },
+      "5033": {
+        "type": "empty"
+      },
+      "5034": {
+        "type": "empty"
+      },
+      "5035": {
+        "type": "empty"
+      },
+      "5036": {
+        "type": "empty"
+      },
+      "5037": {
+        "type": "empty"
+      },
+      "5038": {
+        "type": "empty"
+      },
+      "5039": {
+        "type": "empty"
+      },
+      "5040": {
+        "type": "empty"
+      },
+      "5041": {
+        "type": "empty"
+      },
+      "5042": {
+        "type": "empty"
+      },
+      "5043": {
+        "type": "empty"
+      },
+      "5044": {
+        "type": "empty"
+      },
+      "5045": {
+        "type": "empty"
+      },
+      "5046": {
+        "type": "empty"
+      },
+      "5047": {
+        "type": "empty"
+      },
+      "5048": {
+        "type": "empty"
+      },
+      "5049": {
+        "type": "empty"
+      },
+      "5050": {
+        "type": "empty"
+      },
+      "5051": {
+        "type": "empty"
+      },
+      "5052": {
+        "type": "empty"
+      },
+      "5053": {
+        "type": "empty"
+      },
+      "5054": {
+        "type": "empty"
+      },
+      "5055": {
+        "type": "empty"
+      },
+      "5056": {
+        "type": "empty"
+      },
+      "5057": {
+        "type": "empty"
+      },
+      "5058": {
+        "name": "",
+        "type": "door"
+      },
+      "6000": {
+        "name": "",
+        "type": "door"
+      },
+      "6001": {
+        "type": "empty"
+      },
+      "6002": {
+        "type": "empty"
+      },
+      "6003": {
+        "type": "empty"
+      },
+      "6004": {
+        "type": "empty"
+      },
+      "6005": {
+        "type": "empty"
+      },
+      "6006": {
+        "type": "empty"
+      },
+      "6007": {
+        "type": "empty"
+      },
+      "6008": {
+        "type": "empty"
+      },
+      "6009": {
+        "type": "empty"
+      },
+      "6010": {
+        "type": "empty"
+      },
+      "6011": {
+        "type": "empty"
+      },
+      "6012": {
+        "type": "empty"
+      },
+      "6013": {
+        "type": "empty"
+      },
+      "6014": {
+        "type": "empty"
+      },
+      "6015": {
+        "type": "empty"
+      },
+      "6016": {
+        "type": "empty"
+      },
+      "6017": {
+        "type": "empty"
+      },
+      "6018": {
+        "type": "empty"
+      },
+      "6019": {
+        "type": "empty"
+      },
+      "6020": {
+        "type": "empty"
+      },
+      "6021": {
+        "type": "empty"
+      },
+      "6022": {
+        "type": "empty"
+      },
+      "6023": {
+        "type": "empty"
+      },
+      "6024": {
+        "type": "empty"
+      },
+      "6025": {
+        "type": "empty"
+      },
+      "6026": {
+        "type": "empty"
+      },
+      "6027": {
+        "type": "empty"
+      },
+      "6028": {
+        "type": "empty"
+      },
+      "6029": {
+        "type": "empty"
+      },
+      "6030": {
+        "type": "empty"
+      },
+      "6031": {
+        "type": "empty"
+      },
+      "6032": {
+        "type": "empty"
+      },
+      "6033": {
+        "type": "empty"
+      },
+      "6034": {
+        "type": "empty"
+      },
+      "6035": {
+        "type": "empty"
+      },
+      "6036": {
+        "type": "empty"
+      },
+      "6037": {
+        "type": "empty"
+      },
+      "6038": {
+        "type": "empty"
+      },
+      "6039": {
+        "type": "empty"
+      },
+      "6040": {
+        "type": "empty"
+      },
+      "6041": {
+        "type": "empty"
+      },
+      "6042": {
+        "type": "empty"
+      },
+      "6043": {
+        "type": "empty"
+      },
+      "6044": {
+        "type": "empty"
+      },
+      "6045": {
+        "type": "empty"
+      },
+      "6046": {
+        "type": "empty"
+      },
+      "6047": {
+        "type": "empty"
+      },
+      "6048": {
+        "type": "empty"
+      },
+      "6049": {
+        "type": "empty"
+      },
+      "6050": {
+        "type": "empty"
+      },
+      "6051": {
+        "type": "empty"
+      },
+      "6052": {
+        "type": "empty"
+      },
+      "6053": {
+        "type": "empty"
+      },
+      "6054": {
+        "type": "empty"
+      },
+      "6055": {
+        "type": "empty"
+      },
+      "6056": {
+        "type": "empty"
+      },
+      "6057": {
+        "type": "empty"
+      },
+      "6058": {
+        "name": "",
+        "type": "door"
+      },
+      "7000": {
+        "name": "",
+        "type": "door"
+      },
+      "7001": {
+        "type": "empty"
+      },
+      "7002": {
+        "type": "empty"
+      },
+      "7003": {
+        "type": "empty"
+      },
+      "7004": {
+        "type": "empty"
+      },
+      "7005": {
+        "type": "empty"
+      },
+      "7006": {
+        "type": "empty"
+      },
+      "7007": {
+        "type": "empty"
+      },
+      "7008": {
+        "type": "empty"
+      },
+      "7009": {
+        "type": "empty"
+      },
+      "7010": {
+        "type": "empty"
+      },
+      "7011": {
+        "type": "empty"
+      },
+      "7012": {
+        "type": "empty"
+      },
+      "7013": {
+        "type": "empty"
+      },
+      "7014": {
+        "type": "empty"
+      },
+      "7015": {
+        "type": "empty"
+      },
+      "7016": {
+        "type": "empty"
+      },
+      "7017": {
+        "type": "empty"
+      },
+      "7018": {
+        "type": "empty"
+      },
+      "7019": {
+        "type": "empty"
+      },
+      "7020": {
+        "type": "empty"
+      },
+      "7021": {
+        "type": "empty"
+      },
+      "7022": {
+        "type": "empty"
+      },
+      "7023": {
+        "type": "empty"
+      },
+      "7024": {
+        "type": "empty"
+      },
+      "7025": {
+        "type": "empty"
+      },
+      "7026": {
+        "type": "empty"
+      },
+      "7027": {
+        "type": "empty"
+      },
+      "7028": {
+        "type": "empty"
+      },
+      "7029": {
+        "type": "empty"
+      },
+      "7030": {
+        "type": "empty"
+      },
+      "7031": {
+        "type": "empty"
+      },
+      "7032": {
+        "type": "empty"
+      },
+      "7033": {
+        "type": "empty"
+      },
+      "7034": {
+        "type": "empty"
+      },
+      "7035": {
+        "type": "empty"
+      },
+      "7036": {
+        "type": "empty"
+      },
+      "7037": {
+        "type": "empty"
+      },
+      "7038": {
+        "type": "empty"
+      },
+      "7039": {
+        "type": "empty"
+      },
+      "7040": {
+        "type": "empty"
+      },
+      "7041": {
+        "type": "empty"
+      },
+      "7042": {
+        "type": "empty"
+      },
+      "7043": {
+        "type": "empty"
+      },
+      "7044": {
+        "type": "empty"
+      },
+      "7045": {
+        "type": "empty"
+      },
+      "7046": {
+        "type": "empty"
+      },
+      "7047": {
+        "type": "empty"
+      },
+      "7048": {
+        "type": "empty"
+      },
+      "7049": {
+        "type": "empty"
+      },
+      "7050": {
+        "type": "empty"
+      },
+      "7051": {
+        "type": "empty"
+      },
+      "7052": {
+        "type": "empty"
+      },
+      "7053": {
+        "type": "empty"
+      },
+      "7054": {
+        "type": "empty"
+      },
+      "7055": {
+        "type": "empty"
+      },
+      "7056": {
+        "type": "empty"
+      },
+      "7057": {
+        "type": "empty"
+      },
+      "7058": {
+        "name": "",
+        "type": "door"
+      },
+      "8000": {
+        "type": "empty"
+      },
+      "8001": {
+        "type": "empty"
+      },
+      "8002": {
+        "type": "empty"
+      },
+      "8003": {
+        "type": "empty"
+      },
+      "8004": {
+        "type": "empty"
+      },
+      "8005": {
+        "type": "empty"
+      },
+      "8006": {
+        "type": "empty"
+      },
+      "8007": {
+        "type": "empty"
+      },
+      "8008": {
+        "type": "empty"
+      },
+      "8009": {
+        "type": "empty"
+      },
+      "8010": {
+        "type": "empty"
+      },
+      "8011": {
+        "type": "empty"
+      },
+      "8012": {
+        "type": "empty"
+      },
+      "8013": {
+        "type": "empty"
+      },
+      "8014": {
+        "type": "empty"
+      },
+      "8015": {
+        "type": "empty"
+      },
+      "8016": {
+        "type": "empty"
+      },
+      "8017": {
+        "type": "empty"
+      },
+      "8018": {
+        "type": "empty"
+      },
+      "8019": {
+        "type": "empty"
+      },
+      "8020": {
+        "type": "empty"
+      },
+      "8021": {
+        "type": "empty"
+      },
+      "8022": {
+        "type": "empty"
+      },
+      "8023": {
+        "type": "empty"
+      },
+      "8024": {
+        "type": "empty"
+      },
+      "8025": {
+        "type": "empty"
+      },
+      "8026": {
+        "type": "empty"
+      },
+      "8027": {
+        "type": "empty"
+      },
+      "8028": {
+        "type": "empty"
+      },
+      "8029": {
+        "type": "empty"
+      },
+      "8030": {
+        "type": "empty"
+      },
+      "8031": {
+        "type": "empty"
+      },
+      "8032": {
+        "type": "empty"
+      },
+      "8033": {
+        "type": "empty"
+      },
+      "8034": {
+        "type": "empty"
+      },
+      "8035": {
+        "type": "empty"
+      },
+      "8036": {
+        "type": "empty"
+      },
+      "8037": {
+        "type": "empty"
+      },
+      "8038": {
+        "type": "empty"
+      },
+      "8039": {
+        "type": "empty"
+      },
+      "8040": {
+        "type": "empty"
+      },
+      "8041": {
+        "type": "empty"
+      },
+      "8042": {
+        "type": "empty"
+      },
+      "8043": {
+        "type": "empty"
+      },
+      "8044": {
+        "type": "empty"
+      },
+      "8045": {
+        "type": "empty"
+      },
+      "8046": {
+        "type": "empty"
+      },
+      "8047": {
+        "type": "empty"
+      },
+      "8048": {
+        "type": "empty"
+      },
+      "8049": {
+        "type": "empty"
+      },
+      "8050": {
+        "type": "empty"
+      },
+      "8051": {
+        "type": "empty"
+      },
+      "8052": {
+        "type": "empty"
+      },
+      "8053": {
+        "type": "empty"
+      },
+      "8054": {
+        "type": "empty"
+      },
+      "8055": {
+        "type": "empty"
+      },
+      "8056": {
+        "type": "empty"
+      },
+      "8057": {
+        "type": "empty"
+      },
+      "8058": {
+        "type": "empty"
+      },
+      "9000": {
+        "type": "empty"
+      },
+      "9001": {
+        "type": "empty"
+      },
+      "9002": {
+        "type": "empty"
+      },
+      "9003": {
+        "type": "empty"
+      },
+      "9004": {
+        "type": "empty"
+      },
+      "9005": {
+        "type": "empty"
+      },
+      "9006": {
+        "type": "empty"
+      },
+      "9007": {
+        "type": "empty"
+      },
+      "9008": {
+        "type": "empty"
+      },
+      "9009": {
+        "type": "empty"
+      },
+      "9010": {
+        "type": "empty"
+      },
+      "9011": {
+        "type": "empty"
+      },
+      "9012": {
+        "type": "empty"
+      },
+      "9013": {
+        "type": "empty"
+      },
+      "9014": {
+        "type": "empty"
+      },
+      "9015": {
+        "type": "empty"
+      },
+      "9016": {
+        "type": "empty"
+      },
+      "9017": {
+        "type": "empty"
+      },
+      "9018": {
+        "type": "empty"
+      },
+      "9019": {
+        "type": "empty"
+      },
+      "9020": {
+        "type": "empty"
+      },
+      "9021": {
+        "type": "empty"
+      },
+      "9022": {
+        "type": "empty"
+      },
+      "9023": {
+        "type": "empty"
+      },
+      "9024": {
+        "type": "empty"
+      },
+      "9025": {
+        "type": "empty"
+      },
+      "9026": {
+        "type": "empty"
+      },
+      "9027": {
+        "type": "empty"
+      },
+      "9028": {
+        "type": "empty"
+      },
+      "9029": {
+        "type": "empty"
+      },
+      "9030": {
+        "type": "empty"
+      },
+      "9031": {
+        "type": "empty"
+      },
+      "9032": {
+        "type": "empty"
+      },
+      "9033": {
+        "type": "empty"
+      },
+      "9034": {
+        "type": "empty"
+      },
+      "9035": {
+        "type": "empty"
+      },
+      "9036": {
+        "type": "empty"
+      },
+      "9037": {
+        "type": "empty"
+      },
+      "9038": {
+        "type": "empty"
+      },
+      "9039": {
+        "type": "empty"
+      },
+      "9040": {
+        "type": "empty"
+      },
+      "9041": {
+        "type": "empty"
+      },
+      "9042": {
+        "type": "empty"
+      },
+      "9043": {
+        "type": "empty"
+      },
+      "9044": {
+        "type": "empty"
+      },
+      "9045": {
+        "type": "empty"
+      },
+      "9046": {
+        "type": "empty"
+      },
+      "9047": {
+        "type": "empty"
+      },
+      "9048": {
+        "type": "empty"
+      },
+      "9049": {
+        "type": "empty"
+      },
+      "9050": {
+        "type": "empty"
+      },
+      "9051": {
+        "type": "empty"
+      },
+      "9052": {
+        "type": "empty"
+      },
+      "9053": {
+        "type": "empty"
+      },
+      "9054": {
+        "type": "empty"
+      },
+      "9055": {
+        "type": "empty"
+      },
+      "9056": {
+        "type": "empty"
+      },
+      "9057": {
+        "type": "empty"
+      },
+      "9058": {
+        "type": "empty"
+      },
+      "10000": {
+        "type": "empty"
+      },
+      "10001": {
+        "type": "empty"
+      },
+      "10002": {
+        "type": "empty"
+      },
+      "10003": {
+        "type": "empty"
+      },
+      "10004": {
+        "type": "empty"
+      },
+      "10005": {
+        "type": "empty"
+      },
+      "10006": {
+        "type": "empty"
+      },
+      "10007": {
+        "type": "empty"
+      },
+      "10008": {
+        "type": "empty"
+      },
+      "10009": {
+        "type": "empty"
+      },
+      "10010": {
+        "type": "empty"
+      },
+      "10011": {
+        "type": "empty"
+      },
+      "10012": {
+        "type": "empty"
+      },
+      "10013": {
+        "type": "empty"
+      },
+      "10014": {
+        "type": "empty"
+      },
+      "10015": {
+        "type": "empty"
+      },
+      "10016": {
+        "type": "empty"
+      },
+      "10017": {
+        "type": "empty"
+      },
+      "10018": {
+        "type": "empty"
+      },
+      "10019": {
+        "type": "empty"
+      },
+      "10020": {
+        "type": "empty"
+      },
+      "10021": {
+        "type": "empty"
+      },
+      "10022": {
+        "type": "empty"
+      },
+      "10023": {
+        "type": "empty"
+      },
+      "10024": {
+        "type": "empty"
+      },
+      "10025": {
+        "type": "empty"
+      },
+      "10026": {
+        "type": "empty"
+      },
+      "10027": {
+        "type": "empty"
+      },
+      "10028": {
+        "type": "empty"
+      },
+      "10029": {
+        "type": "empty"
+      },
+      "10030": {
+        "type": "empty"
+      },
+      "10031": {
+        "type": "empty"
+      },
+      "10032": {
+        "type": "empty"
+      },
+      "10033": {
+        "type": "empty"
+      },
+      "10034": {
+        "type": "empty"
+      },
+      "10035": {
+        "type": "empty"
+      },
+      "10036": {
+        "type": "empty"
+      },
+      "10037": {
+        "type": "empty"
+      },
+      "10038": {
+        "type": "empty"
+      },
+      "10039": {
+        "type": "empty"
+      },
+      "10040": {
+        "type": "empty"
+      },
+      "10041": {
+        "type": "empty"
+      },
+      "10042": {
+        "type": "empty"
+      },
+      "10043": {
+        "type": "empty"
+      },
+      "10044": {
+        "type": "empty"
+      },
+      "10045": {
+        "type": "empty"
+      },
+      "10046": {
+        "type": "empty"
+      },
+      "10047": {
+        "type": "empty"
+      },
+      "10048": {
+        "type": "empty"
+      },
+      "10049": {
+        "type": "empty"
+      },
+      "10050": {
+        "type": "empty"
+      },
+      "10051": {
+        "type": "empty"
+      },
+      "10052": {
+        "type": "empty"
+      },
+      "10053": {
+        "type": "empty"
+      },
+      "10054": {
+        "type": "empty"
+      },
+      "10055": {
+        "type": "empty"
+      },
+      "10056": {
+        "type": "empty"
+      },
+      "10057": {
+        "type": "empty"
+      },
+      "10058": {
+        "type": "empty"
+      },
+      "11000": {
+        "type": "empty"
+      },
+      "11001": {
+        "type": "empty"
+      },
+      "11002": {
+        "type": "empty"
+      },
+      "11003": {
+        "type": "empty"
+      },
+      "11004": {
+        "type": "empty"
+      },
+      "11005": {
+        "type": "empty"
+      },
+      "11006": {
+        "type": "empty"
+      },
+      "11007": {
+        "type": "empty"
+      },
+      "11008": {
+        "type": "empty"
+      },
+      "11009": {
+        "type": "empty"
+      },
+      "11010": {
+        "type": "empty"
+      },
+      "11011": {
+        "type": "empty"
+      },
+      "11012": {
+        "type": "empty"
+      },
+      "11013": {
+        "type": "empty"
+      },
+      "11014": {
+        "type": "empty"
+      },
+      "11015": {
+        "type": "empty"
+      },
+      "11016": {
+        "type": "empty"
+      },
+      "11017": {
+        "type": "empty"
+      },
+      "11018": {
+        "type": "empty"
+      },
+      "11019": {
+        "type": "empty"
+      },
+      "11020": {
+        "type": "empty"
+      },
+      "11021": {
+        "type": "empty"
+      },
+      "11022": {
+        "type": "empty"
+      },
+      "11023": {
+        "type": "empty"
+      },
+      "11024": {
+        "type": "empty"
+      },
+      "11025": {
+        "type": "empty"
+      },
+      "11026": {
+        "type": "empty"
+      },
+      "11027": {
+        "type": "empty"
+      },
+      "11028": {
+        "type": "empty"
+      },
+      "11029": {
+        "type": "empty"
+      },
+      "11030": {
+        "type": "empty"
+      },
+      "11031": {
+        "type": "empty"
+      },
+      "11032": {
+        "type": "empty"
+      },
+      "11033": {
+        "type": "empty"
+      },
+      "11034": {
+        "type": "empty"
+      },
+      "11035": {
+        "type": "empty"
+      },
+      "11036": {
+        "type": "empty"
+      },
+      "11037": {
+        "type": "empty"
+      },
+      "11038": {
+        "type": "empty"
+      },
+      "11039": {
+        "type": "empty"
+      },
+      "11040": {
+        "type": "empty"
+      },
+      "11041": {
+        "type": "empty"
+      },
+      "11042": {
+        "type": "empty"
+      },
+      "11043": {
+        "type": "empty"
+      },
+      "11044": {
+        "type": "empty"
+      },
+      "11045": {
+        "type": "empty"
+      },
+      "11046": {
+        "type": "empty"
+      },
+      "11047": {
+        "type": "empty"
+      },
+      "11048": {
+        "type": "empty"
+      },
+      "11049": {
+        "type": "empty"
+      },
+      "11050": {
+        "type": "empty"
+      },
+      "11051": {
+        "type": "empty"
+      },
+      "11052": {
+        "type": "empty"
+      },
+      "11053": {
+        "type": "empty"
+      },
+      "11054": {
+        "type": "empty"
+      },
+      "11055": {
+        "type": "empty"
+      },
+      "11056": {
+        "type": "empty"
+      },
+      "11057": {
+        "type": "empty"
+      },
+      "11058": {
+        "type": "empty"
+      },
+      "15011": {
+        "name": "",
+        "type": "door"
+      },
+      "15012": {
+        "name": "",
+        "type": "door"
+      },
+      "15046": {
+        "name": "",
+        "type": "door"
+      },
+      "15047": {
+        "name": "",
+        "type": "door"
+      }
+    }
+  },
+  "message": "",
+  "code": "0"
+}

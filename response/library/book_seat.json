@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "data": {
+    "id": 3528280,
+    "receipt": "0323-280-4",
+    "onDate": "2021 年 06 月 10 日",
+    "begin": "09 : 00",
+    "end": "12 : 00",
+    "location": "南校区第二图书馆1层1层自主学习空间（Ⅰ），座位号161",
+    "checkedIn": false
+  },
+  "message": "",
+  "code": "0"
+}

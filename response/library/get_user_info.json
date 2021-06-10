@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "data": {
+    "id": 100001,
+    "enabled": true,
+    "name": "康森贵",
+    "username": "31170903000",
+    "username2": "",
+    "status": "NORMAL",
+    "lastLogin": "",
+    "checkedIn": false,
+    "reservationStatus": "",
+    "lastIn": "",
+    "lastOut": "",
+    "lastInBuildingId": "",
+    "lastInBuildingName": "",
+    "violationCount": 0
+  },
+  "message": "",
+  "code": "0"
+}

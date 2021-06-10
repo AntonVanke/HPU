@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 3528278,
+      "receipt": "0326-278-4",
+      "onDate": "2021-06-10",
+      "seatId": 14768,
+      "status": "RESERVE",
+      "location": "南校区第二图书馆1层1层自主学习空间（Ⅰ），座位号163",
+      "begin": "09:00",
+      "end": "12:00",
+      "actualBegin": "",
+      "awayBegin": "",
+      "awayEnd": "",
+      "userEnded": false,
+      "message": "请在 06月10日08点30分 至 09点15分 之间前往场馆签到"
+    }
+  ],
+  "message": "",
+  "code": "0"
+}
