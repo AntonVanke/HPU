@@ -37,6 +37,17 @@ def get_time(str_time: str, fix=True):
     return minute + hour * 60
 
 
+def info(user: User):
+    try:
+        info_json = user.get_user_info()
+        if info_json["status"] == "success":
+            return True, info_json["data"]
+        else:
+            return False, info_json["message"]
+    except:
+        return False, "用户信息接口错误"
+
+
 def book(user: User, seat_id, start_time, end_time, date):
     """
     返回预约结果
@@ -53,7 +64,7 @@ def book(user: User, seat_id, start_time, end_time, date):
             return True, book_json["data"]["onDate"], book_json["data"]["begin"], book_json["data"]["end"], \
                    book_json["data"]["location"]
         else:
-            return True, book_json["message"]
+            return False, book_json["message"]
     except:
         _logger(traceback.format_exc())
         return False, "请求失败，请查看接口是否变更"
